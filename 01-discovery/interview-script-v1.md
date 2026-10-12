@@ -1,10 +1,8 @@
 # Interview Script v1
 
-Copy to `01-discovery/interview-script-v1.md`. Full how-to: `resources/interview-script.md`. Finished example: `examples/sakhli-interview-script-v1.md`.
-
-**Problem we are investigating:** [line 1 of DECISIONS.md]
-**Our prediction:** [copy the "We are wrong if" line from problem-hypothesis.md; never say it aloud]
-**Language:** [the language you will interview in; keep an English version beside it]
+**Problem we are investigating:** Campus washing-machine availability
+**Our prediction:** Completed laundry is usually picked up within 15 minutes after the washing cycle ends
+**Language:** Georgian/English
 
 ## Opening (2 min, word for word)
 [Who you are · that you are learning, not selling, with nothing to show · consent: "Is it okay if my teammate takes notes? We won't use your name."]
