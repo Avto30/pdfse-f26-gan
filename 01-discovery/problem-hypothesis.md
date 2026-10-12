@@ -1,7 +1,5 @@
 # Problem Hypothesis v1
 
-Copy to `01-discovery/problem-hypothesis.md`. Commit it **before your first real interview**. The commit date is your proof. Finished example: `examples/sakhli-problem-hypothesis.md`.
-
 ## Step 1: What each of us believes (2 minutes, silently, then share)
 | Teammate | What I believe the real problem is |
 |---|---|
