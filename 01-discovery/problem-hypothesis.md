@@ -26,7 +26,7 @@ Each one becomes at least one question in your interview script, so you still he
 - [x] No product words (app, platform, tool, AI, bot)
 - [x] "When" is a moment, not "sometimes" or "when busy"
 - [x] "We are wrong if" could be seen in a single interview log
-- [ ] The "we are wrong if" line is copied to the top of your script and your log template
+- [x] The "we are wrong if" line is copied to the top of your script and your log template
 
 ## After interviews (fill in Week 3)
 **Verdict:** [confirmed / weakened / killed] · **Evidence:** [links to logs] · Record the verdict in `DECISIONS.md`.
