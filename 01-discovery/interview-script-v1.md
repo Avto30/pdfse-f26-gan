@@ -8,14 +8,18 @@
 [Who you are · that you are learning, not selling, with nothing to show · consent: "Is it okay if my teammate takes notes? We won't use your name."]
 
 ## Warm-up (2 min)
-1. [One easy, open question about their world]
+1. What is your name, which faculty are you in, and how long have you been living on campus?
+2. How would you describe your experience of living on campus?
 
-## Core (12 to 15 min): your own words, your own problem
-2. Walk me through the last time [problem moment] happened.
-3. [The last time it went wrong]
-4. What did that cost you? [push for a number]
-5. What have you tried to fix it? [then: can you show me?]
-6. [One past-tense question for each belief you did NOT pick in the hypothesis. Do not name the belief.]
+## Core (12 to 15 min):
+1. How often do you wash/dry your clothes on campus?
+2. Do you know how to use the washing machines/dryers correctly and efficiently?
+3. What do you think you don't know? (Optional)
+4. Tell me about the last time you took your laundry to be washed/dried.
+5. Walk us through your typical experience using these laundry facilities.
+6. Are you satisfied with using this equipment?
+7. Why are you satisfied/dissatisfied? Describe in detail the process or experience that led you to feel this way.
+
 
 ## Close (2 min)
 - Who else should we talk to about this?
