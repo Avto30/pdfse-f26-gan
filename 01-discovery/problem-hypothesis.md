@@ -16,9 +16,8 @@
 > 
 ## Step 3: The beliefs we did not pick
 Each one becomes at least one question in your interview script, so you still hear about it.
-- [belief] → script question [number]
-- Not enough washing machines for the number of students (Avtandili) → script question 
-- Not knowing the current availability of the washing machines wastes students' time and effort (Nita) → script question 
+- Not enough washing machines for the number of students (Avtandili) → Has there ever been a time when all of the washing machines/dryers were occupied at the same time? No.13
+- Not knowing the current availability of the washing machines wastes students' time and effort (Nita) → Do you have a semi-reliable way of knowing how many washing machines/dryers are free at a given time? No.14
 
 ## Checks before you commit
 - [x] No product words (app, platform, tool, AI, bot)
