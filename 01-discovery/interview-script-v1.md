@@ -41,6 +41,20 @@ Hello, we are learning how campus students use shared washing machines. We are h
 ## Audit (filled in by the other team)
 | Q | Green / Amber / Red | Why | Fixed? |
 |---|---|---|---|
-| 1 | | | |
+| 1 |         🟢         | Asks about actual laundry habits without influencing the answer | yes |
+| 2 |         🟠         | Encourages a yes/no answer, but could be useful to gather information and get the interviewee talking | yes |
+| 3 |         🟠         | Encourages reflection but is vague without additional context | yes |
+| 4 |         🟢         | Focuses on a specific past experience rather than assumptions | yes |
+| 5 |         🟢         | Encourages participants to describe their actual behavior in detail | yes |
+| 6 |         🟠         | Encourages a simple yes/no judgment, but the next question is a follow up which brings forth more information | yes |
+| 7 |         🟠         | Asks for useful details but depends on the potentially biased previous question | yes |
+| 8 |         🟢         | Explores the real consequences of participants' experiences | yes |
+| 9 |         🟠         | Combines current behavior with hypothetical improvements in one question | yes |
+| 10 |         🟢         | Investigates actions participants have actually taken to solve problems | yes |
+| 11 |         🟠         | Addresses relevant experiences but combines several questions at once | yes |
+| 12 |         🟠         | Investigates actions participants have taken, but asks them to evaluate them on their own acord | yes |
+| 13.1 |         🟠         | Tests the hypothesis but relies on potentially inaccurate recollections of frequency | yes |
+| 13.2 |         🟠         | Explores availability-checking methods but may produce only a yes/no response | yes |
+| 14 |         🟠         | Investigates delays but provides examples that could influence participants' answers | yes |
 
 A script with an unfixed red question does not count as v1.
