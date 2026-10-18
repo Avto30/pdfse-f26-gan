@@ -1,4 +1,5 @@
 Interview 02 · KIU Student, Dorm F · Irakli
+(Interview was done in English)
 
 Week: 2 · Asker: G.P. · Logger: N.J. and A.G. · Consent: yes; notes and recordings · Real or practice: Real
 
