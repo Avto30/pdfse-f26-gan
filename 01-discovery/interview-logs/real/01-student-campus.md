@@ -25,13 +25,13 @@
 
 
 
-**Workaround:** She avoids busy hours by doing her laundry at 7-8 a.m. She uses her dormitory's group chat to check machine availability. When laundry is left unattended, she waits around 10 minutes before moving it herself.
-**Cost:** Waiting for other students to collect their laundry wastes her time. 
-**Frequency:** She washes her clothes every other day. She frequently encounters occupied washing machines, especially in Building G. The frequency of unattended laundry was not established.
-**Prediction check:**  Not yet confirmed whether she mentioned unattended laundry before we asked. She waits approximately 10 minutes before moving uncollected laundry, but this does not establish whether owners usually collect it within 15 minutes.
-**Surprise ★:** Malfunctioning machines and the shortage of usable machines emerged as additional problems. Despite these difficulties, she is generally satisfied with the laundry facilities and has developed her own ways of avoiding delays.
-**Commitment:**  referred us to her friend, who also had concerns about the campus laundry facilities. We subsequently interviewed her.
-**Next:** Compare her friend's experience with Ani's, focusing on unattended laundry, waiting times, and washing machine availability. Check whether the same problems occur for both students.
+**Workaround:** She avoids busy hours by doing her laundry at 7-8 a.m. She uses her dormitory's group chat to check machine availability. When laundry is left unattended, she waits around 10 minutes before moving it herself.  
+**Cost:** Waiting for other students to collect their laundry wastes her time.  
+**Frequency:** She washes her clothes every other day. She frequently encounters occupied washing machines, especially in Building G. The frequency of unattended laundry was not established.  
+**Prediction check:**  Not yet confirmed whether she mentioned unattended laundry before we asked. She waits approximately 10 minutes before moving uncollected laundry, but this does not establish whether owners usually collect it within 15 minutes.  
+**Surprise ★:** Malfunctioning machines and the shortage of usable machines emerged as additional problems. Despite these difficulties, she is generally satisfied with the laundry facilities and has developed her own ways of avoiding delays.  
+**Commitment:**  referred us to her friend, who also had concerns about the campus laundry facilities. We subsequently interviewed her.  
+**Next:** Compare her friend's experience with Ani's, focusing on unattended laundry, waiting times, and washing machine availability. Check whether the same problems occur for both students.  
 
 Log completed on October 19.
 
