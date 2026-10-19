@@ -81,7 +81,7 @@
 
 ## Pattern 4
 
-**Pattern:** Limited numbers of usable machines, faults, and poor maintenance increase waiting and sometimes force students to handle technical problems themselves.
+**Pattern:** Limited numbers of usable machines, reported faults, and concerns about cleaning and maintenance increase waiting and sometimes force students to handle technical problems themselves.
 
 **Interviews behind it:** 01, 03, 04, 05
 
@@ -102,11 +102,13 @@
 - "Finding an available washing machine usually takes the most time, probably around an hour. I mean, there are only five washing machines in total, and just think about how many students there are." (05; English translation)
 - "I mean, that’s also just a human factor. You can’t always expect people to be on time. It’s happened to me too, when I couldn’t go down and pick up my laundry on time. So the real problem isn’t that someone forgets to put their laundry in or take it out or something like that. The main issue is that there are simply too few washing machines." (05; English translation)
 
+**Evidence note:** Interview 05 mentions five machines, while Interview 03 mentions six. These are participants' statements, possibly referring to different laundry facilities; the total number has not been independently verified.
+
 ## Pattern 5
 
 **Pattern:** Unreliable dryers and concerns about clothing damage lead students to restart cycles, switch machines, or dry clothes elsewhere.
 
-**Interviews behind it:** 02, 03, 04, 05
+**Interviews behind it:** 02, 03, 04
 
 **Quotes:**
 
@@ -117,8 +119,6 @@
 - "The problem with the dryer is that it sometimes stops by itself after you turn it on. You think it's working, but it's actually off. When you set it for an hour, it can stop after just 10 minutes. You think your clothes have been drying for an hour, but when you go downstairs and open it, they're still damp or wet. You've gone downstairs for nothing." (03)
 - "There was a time when I put my clothes in a dryer and left them there. When I came back downstairs, it was still spinning, but when I opened it and checked, the clothes were just as wet as before. So I moved them to another dryer and started the cycle again." (03)
 - "Some people even dry their clothes in their own rooms, because of some problems with the dryers you know, some clothes get shrunk in the dryers and so on." (04)
-
-- "I’d add more dryers and washing machines, but honestly, I’d throw all the ones we have now straight in the trash. Not a single one of them is any good.." (05; English translation)
 
 ## Pattern 6
 
@@ -168,4 +168,4 @@ The following quotes are background details, individual preferences, or one-off 
 
 ---
 
-**Self-check before committing:** The original 01–04 quote groupings are preserved. The new 05–06 quotes are labeled and should be checked against the interview logs. The 15-minute **usual** collection-time claim is not established by this evidence. Specific suggestions from Interview 05 are interviewee preferences, not verified solution requirements.
+**Self-check:** The original 01–04 quote groupings are preserved. Interview 05–06 quotes are labeled and have been compared against the supplied interview logs. The 15-minute **usual** collection-time claim is not established by this evidence. Specific suggestions from Interview 05 are interviewee preferences, not verified solution requirements.
