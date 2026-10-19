@@ -1,14 +1,14 @@
 # Ideal Customer Profile
 
-**Name (invented) and one-line sketch:** Luka, 20, a KIU student living on campus who regularly uses the shared dormitory washing machines.
+**Name and one-line sketch:** Irakli, 20, a KIU student living on campus who regularly uses the shared dormitory washing machines.
 
-**Their situation:** Luka lives in the KIU campus dormitory and uses the shared washing machines for his laundry. There is currently no way for him to know whether a machine is available without physically going to the laundry area and checking.
+**Their situation:** Irakli lives in the KIU campus dormitory and uses the shared washing machines for his laundry. There is currently no way for him to know whether a machine is available without physically going to the laundry area and checking. (interview log 02) (interview log 03)
 
-**The moment the problem shows up:** Every two weeks when Luka needs to do laundry, he carries his laundry downstairs to the shared laundry area and finds that all the washing machines are already occupied.
+**The moment the problem shows up:** Every week when Irakli needs to do laundry, he carries his laundry downstairs to the shared laundry area and finds that all the washing machines are already occupied, not turned on ones are full with washed clothes and left by someone who did not come for them on time, or some machines are simply broken. (interview log 02)
 
-**What it costs them:** He loses time making unnecessary trips to the laundry area, waiting for a machine to become available, or carrying his laundry back and returning later.
+**What it costs them:** He loses time making unnecessary trips to the laundry area, waiting for a machine to become available or for dryer to complete drying, as it sometimes tend to stop itself or not dry clothes at all. (interview log 02)
 
-**What they do about it today:** He physically goes to the laundry area to check whether a machine is available. If all machines are occupied, he either waits nearby or takes his laundry back and tries again later.
+**What they do about it today:** He physically goes to the laundry area to check whether a machine is available. If all machines are occupied, he either waits nearby or takes out left behind clothes from a finished washing machine to not waste his time because of someone's lack of responsibility. (interview log 02)
 
 **What they are NOT:**
 - KIU students who live off campus and have access to a washing machine at home, because they do not depend on the shared campus washing machines.
@@ -21,9 +21,8 @@
 | KIU dorm resident 1 | Avto | No |
 | KIU dorm resident 2 | Avto | No |
 | KIU dorm resident 3 | Nita | No |
-| KIU dorm resident 4 | Nita | No |
-| KIU dorm resident 5 | Gigi | No |
+| Lasha, KIU student on 3rd course, living in building F | Gigi | Yes |
+| Irakli, KIU student on 3rd course, living in building F | Gigi | Yes |
 
 **Evidence so far:** `00-foundation/problem-pool.md` — Problem 11 (Avtandili Gogoladze).
 
-This is v1. It will change after your first three interviews, and that is the point.
