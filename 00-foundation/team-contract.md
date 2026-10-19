@@ -13,7 +13,7 @@ Accountabilities below say who makes sure something happens. They do not say who
 |---|---|---|---|
 | Nita Javelidze | @NitaJ5 | Discovery: interview quality, synthesis | My friend Mariam, a KIU student whose university schedule conflicts with work opportunities |
 | Avtandili Gogoladze | @Avto30 | Build: repo, code, deployment | My mother and a few other mothers, since they are the ones that almost exclusively oversee what their children do on the internet |
-| Gigi Peikrishvili | @GigiP909 | Delivery: deadlines, submissions, milestone tags | [name, connection] |
+| Gigi Peikrishvili | @GigiP909 | Delivery: deadlines, submissions, milestone tags | My father and uncle whose work is disturbed by traffic, and "construction" of Georgias' wine factories. |
 
 
 ## How we work
