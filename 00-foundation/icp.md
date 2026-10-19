@@ -4,7 +4,7 @@
 
 **Their situation:** Luka lives in the KIU campus dormitory and uses shared washing machines. He usually checks availability by going to the laundry area in person. Some residents ask in group chats, but a reliable, universally available real-time status method was not established in our interviews.
 
-**The moment the problem shows up:** When Luka needs to do laundry, he brings his clothes downstairs and sometimes finds that all usable washing machines are occupied, broken, or still holding completed laundry.
+**The moment the problem shows up:** When Luka needs to do laundry, he brings his clothes downstairs and finds that no usable washing machine is available because working machines are occupied, some machines are broken, or completed laundry has not been collected.
 
 **What it costs them:** He may waste time on repeated trips, waiting, or returning later. One Interview 05 participant reported spending around an hour finding a free machine; experiences vary.
 
