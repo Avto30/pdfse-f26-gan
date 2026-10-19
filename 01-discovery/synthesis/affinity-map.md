@@ -82,7 +82,7 @@
 - "Sometimes you've washed your clothes, but there's no dryer available." (03)
 - "There was a time when I was waiting for a dryer. Someone came downstairs, opened it, saw that their clothes weren't dry, put them back in, and started it again. In that situation, I took my clothes upstairs and dried them at home." (03)
 - "The problem with the dryer is that it sometimes stops by itself after you turn it on. You think it's working, but it's actually off. When you set it for an hour, it can stop after just 10 minutes. You think your clothes have been drying for an hour, but when you go downstairs and open it, they're still damp or wet. You've gone downstairs for nothing." (03)
-- "There was a time when I put my clothes in a dryer and left them there. When I came back downstairs, it was still spinning, but when I opened it and checked, the clothes were just as wet before. So I moved them to another dryer and started the cycle again." (03)
+- "There was a time when I put my clothes in a dryer and left them there. When I came back downstairs, it was still spinning, but when I opened it and checked, the clothes were just as wet as before. So I moved them to another dryer and started the cycle again." (03)
 
 ## Pattern 6
 
