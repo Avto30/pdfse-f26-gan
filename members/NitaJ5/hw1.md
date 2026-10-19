@@ -83,5 +83,5 @@ I also updated our Problem Hypothesis with the interview evidence. For now, I th
 - [x] Two or more real interview rows say asked (01, 03).
 - [x] Four journal entries, with links to commits or files.
 - [x] Related DECISIONS.md lines copied verbatim from entries 2, 4, 5.
-- [ ] Verify real filenames for interviews 05 and 06 in GitHub.
-- [ ] Commit from my GitHub account and submit before the deadline.
+- [X] Verify real filenames for interviews 05 and 06 in GitHub.
+- [X] Commit from my GitHub account and submit before the deadline.
