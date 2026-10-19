@@ -1,7 +1,6 @@
 # Affinity Map
 
-  
-**Interviews analyzed:** 01, 02, 03
+**Interviews analyzed:** 01, 02, 03, 04
 
 ## Pattern 1
 
@@ -18,9 +17,9 @@
 
 ## Pattern 2
 
-**Pattern:** Students cannot reliably check machine availability without visiting the laundry room, causing repeated trips, wasted time, and missed opportunities to wash their clothes.
+**Pattern:** Students often rely on physical checks to find available machines, leading to repeated trips and wasted time, although some also use dormitory group chats.
 
-**Interviews behind it:** 01, 02, 03
+**Interviews behind it:** 01, 02, 03, 04
 
 **Quotes:**
 
@@ -32,12 +31,14 @@
 - "Most of the time, all the washing machines are running. What can I do then? Nothing. I've left without washing my clothes that day." (03)
 - "The only way I know to find out whether a washing machine is available is to go downstairs and check. There's no other way." (03)
 - "When I go to check, I take my laundry with me, because if I go back upstairs, someone will definitely get there before me. I've gone downstairs and found three machines available, but after going back upstairs and returning, all three were occupied." (03)
+- "Some people exhibit inhuman tendencies, like when they use the 3 hour modes to wash their clothes, like when you go down and occupy 3 washing machines and run 3 hour cycles on all of them while a hundred people are waiting for you when you are going to come back..." (04)
+- "What I actually feel and bothers me and I lose a lot of time doing it is when I take my clothes down and none of the machines are free, or someone has left their clean laundry in the machine unattended, or there are even cases where it shows that there is 1 minute left and that 1 minute ends up being 30." (04)
 
 ## Pattern 3
 
 **Pattern:** When students leave their laundry uncollected, others must wait or move their clothes, creating delays, discomfort, and concerns about damaging personal belongings.
 
-**Interviews behind it:** 01, 02, 03
+**Interviews behind it:** 01, 02, 03, 04
 
 **Quotes:**
 
@@ -52,12 +53,17 @@
 - "I've taken out unattended laundry, but I haven't left it unattended. I've moved it to a dryer and turned it on." (03)
 - "I've also considered that someone might not want their clothes dried in a dryer, but I can't just leave their clothes wet." (03)
 - "I've even waited half an hour, sitting right there and waiting." (03)
+- "and other people's laundry gets taken out because there aren't enough washing machines for you to, for example, use a different one." (04)
+- "everyone, I think, has times when something unexpected happens or when you can't get back from the lecture in time or, I don't know, you just go down to check the times and minutes get added for no reason, so you can't stay down there for long." (04)
+- "It is only humane that when someone goes down to wash their clothes, they should be bringing them up clean, so, if you must, you should take out their clothes and lay them on the chair cleanly, now when you put it on top of the washing machine, or when you take it and put it somewhere else, or when you mix it with someone else's laundry, that is a very big display of irresponsibility." (04)
+- "Something along those lines happened to me before and it vas very unpleasant." (04)
+- "Well nothing major, I was just 5 minutes late, I was doing the dishes and when I finished I went down to the laundry room to move my clothes to the dryer and well my clothes were nowhere to be seen. I then spotted them on top of a different washing machine mixed up with clothes of other people that was maybe lost or something, I only got a portion of my clothes back that day, many of them I still don't know where they are." (04)
 
 ## Pattern 4
 
 **Pattern:** Malfunctioning washing machines reduce the number of usable machines, increase waiting, and sometimes force students to handle technical problems themselves.
 
-**Interviews behind it:** 01, 03
+**Interviews behind it:** 01, 03, 04
 
 **Quotes:**
 
@@ -68,12 +74,14 @@
 - "The solution to this problem is to replace the equipment, or when something is broken, have the maintenance staff come and fix it." (03)
 - "You shouldn't have to know which machine is broken. None of them should be broken, especially when there are only six." (03)
 - "Another problem is that the instructions say you shouldn't use washing powder and should use liquid detergent instead, but some people don't follow that rule, and that's why the machines break down." (03)
+- "There are lots of times when the washing machines are broken." (04)
+- "For this many students and a dorm building of this size, in my opinion, there are too few washing machines." (04)
 
 ## Pattern 5
 
-**Pattern:** Unreliable dryers extend laundry sessions because students must restart drying cycles, switch machines, or dry their clothes elsewhere.
+**Pattern:** Unreliable dryers and concerns about clothing damage lead students to restart cycles, switch machines, or dry clothes elsewhere.
 
-**Interviews behind it:** 02, 03
+**Interviews behind it:** 02, 03, 04
 
 **Quotes:**
 
@@ -83,6 +91,7 @@
 - "There was a time when I was waiting for a dryer. Someone came downstairs, opened it, saw that their clothes weren't dry, put them back in, and started it again. In that situation, I took my clothes upstairs and dried them at home." (03)
 - "The problem with the dryer is that it sometimes stops by itself after you turn it on. You think it's working, but it's actually off. When you set it for an hour, it can stop after just 10 minutes. You think your clothes have been drying for an hour, but when you go downstairs and open it, they're still damp or wet. You've gone downstairs for nothing." (03)
 - "There was a time when I put my clothes in a dryer and left them there. When I came back downstairs, it was still spinning, but when I opened it and checked, the clothes were just as wet as before. So I moved them to another dryer and started the cycle again." (03)
+- "Some people even dry their clothes in their own rooms, because of some problems with the dryers you know, some clothes get shrunk in the dryers and so on." (04)
 
 ## Pattern 6
 
@@ -111,12 +120,18 @@
 
 ## Not yet a pattern
 
-The following quotes describe individual background details or usage frequency rather than a clearly established recurring problem.
+The following quotes are background details, individual preferences, or one-off observations that do not yet establish another recurring pattern.
 
 - "I frequently use KIU's facilities and I've been spending most of my time here for the past two years." (01)
 - "I do my laundry every other day." (01)
 - "I would say I wash my clothes once a week, always at the end of the week." (02)
 
+- "I use the laundry facilities at least once a week." (04)
+- "Ideally it should be where you don't have to waste extra time or get frustrated and everything should be organized well." (04)
+- "I need 2(washing machine), the majority of the time." (04)
+- "Also, I think there should at least be an internet connection in the laundry room, because some people when they go down, they bring cards and three other people with them, just to have something to do." (04)
+- "My ex-roommate used to wash everything by hand." (04)
+
 ---
 
-**Self-check before committing:** Each pattern describes a specific finding from real KIU student interviews rather than a broad topic. All 46 quotes from Interviews 01–03 have been grouped. This map must be reviewed and updated when Interviews 04–06 are added, including any evidence that contradicts the current patterns.
+**Self-check before committing:** Each pattern describes a specific finding from real KIU student interviews rather than a broad topic. All 61 supplied quotes from Interviews 01–04 have been grouped (46 from Interviews 01–03, plus 15 from Interview 04). This map must be reviewed and updated after Interviews 05–06, including any contradictory evidence. Interview 04 must be numbered consistently in the GitHub log filename and heading.
