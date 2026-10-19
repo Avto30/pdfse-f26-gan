@@ -26,4 +26,4 @@ Each one becomes at least one question in your interview script, so you still he
 - [x] The "we are wrong if" line is copied to the top of your script and your log template
 
 ## After interviews (fill in Week 3)
-**Verdict:**  weakened  · **Evidence:** logs 01, 02, 03. Unattended laundry causes delays, but the 15-minute collection-time assumption remains unverified. See DECISIONS.md. · 
+**Verdict:** weakened · **Evidence:** logs 01, 02, 03, 04. Students described delayed collection, waiting, and moving other people's laundry; Interview 04 also described belongings going missing after clothes were removed when the owner was five minutes late. However, these examples do not establish whether completed laundry is *usually* picked up within 15 minutes. The number of unprompted mentions is not fully verified. See `DECISIONS.md`.
