@@ -25,19 +25,11 @@ Practice Interview Log 01
 - "მეტი სარეცხის მანქანა საჭიროა კი, ალბათ ერთი 8 მაინც უნდა იყოს, საშრობი არაა ამდენი საჭირო." / "More washing machines are necessary, yes, there have to be 8 at least, and there are too many dryers." ★
   
 **Workaround:** Takes his clothes to Tbilisi and his mom washes them.
-**Cost:** Time and energy spent, sometimes in vain.
-**Frequency:** Once a month.
-**Prediction check:** Yes, he said he waited more than 10 minutes and no one came to pick up the completed laundry.
-**Surprise ★:** He said that it is mostly not that busy and that there should be less dryers.
-**Commitment:** Said we would pay up to 10 Lari for a solution to one off washes.
-**Next:** Ask real contenders for our ICP.
-
-Written within 24 hours. Luka read it the same evening and added the notebook quote Mariam had missed.
+**Cost:** Time and energy spent, sometimes in vain.  
+**Frequency:** Once a month.  
+**Prediction check:** Yes, he said he waited more than 10 minutes and no one came to pick up the completed laundry.  
+**Surprise ★:** He said that it is mostly not that busy and that there should be less dryers.  
+**Commitment:** Said we would pay up to 10 Lari for a solution to one off washes.  
+**Next:** Ask real contenders for our ICP.  
 
 ---
-
-## What to notice
-
-- **Quotes in the language spoken, translation beside.** A translated quote is already a paraphrase; the original is the evidence.
-- **The commission quote is labeled "only after Mariam asked".** Without that label, the same words would look like support for the prediction.
-- **"Someone should make an app" is logged, then disarmed.** A feature request is a compliment in disguise.
