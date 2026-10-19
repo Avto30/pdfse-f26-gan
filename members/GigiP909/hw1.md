@@ -1,4 +1,4 @@
-#Homework 1 · Gigi Peikrishvili (@Gigip909) · Team GAN
+Homework 1 · Gigi Peikrishvili (@Gigip909) · Team GAN
 Save as: members/Gigip909/hw1.md
 1. My interview log
 Log file (link)	My role (asked / logged / both)	What this interview changed, in one sentence
