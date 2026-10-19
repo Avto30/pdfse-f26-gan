@@ -26,4 +26,4 @@ Each one becomes at least one question in your interview script, so you still he
 - [x] The "we are wrong if" line is copied to the top of your script and your log template
 
 ## After interviews (fill in Week 3)
-**Verdict:** [confirmed / weakened / killed] · **Evidence:** [links to logs] · Record the verdict in `DECISIONS.md`.
+**Verdict:**  weakened  · **Evidence:** logs 01, 02, 03. Unattended laundry causes delays, but the 15-minute collection-time assumption remains unverified. See DECISIONS.md. · 
