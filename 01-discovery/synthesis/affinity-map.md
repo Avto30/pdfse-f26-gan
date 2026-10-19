@@ -1,12 +1,13 @@
 # Affinity Map
 
-**Interviews analyzed:** 01, 02, 03, 04
+  
+**Interviews analyzed:** 01, 02, 03, 04, 05, 06
 
 ## Pattern 1
 
-**Pattern:** Students adjust their laundry schedules to quieter morning hours to avoid crowded machines and reduce waiting.
+**Pattern:** Students adjust their laundry schedules to quieter hours or less crowded days to avoid crowded machines and reduce waiting.
 
-**Interviews behind it (2 minimum):** 01, 02, 03
+**Interviews behind it (2 minimum):** 01, 02, 03, 05, 06
 
 **Quotes (verbatim, each tagged with its log number):**
 
@@ -15,11 +16,14 @@
 - "I mostly go in the mornings because that is when the machines are free and therefore washing them is easier for me, but I do not specifically wake up early in the morning for that reason." (02)
 - "When there's no other option, I go there at 5 a.m. and finish around 9 a.m. I don't sleep in between because I'm afraid someone will take my laundry out." (03)
 
+- "There have been times when I’ve stayed up because of my laundry or woken up early in the morning specifically to do it. Generally, washing machines are more available in the morning, when everyone is at university and stuff." (05; English translation)
+- "I usually do laundry every 2 week, mostly on weekends, as there are less people on campus." (06)
+
 ## Pattern 2
 
 **Pattern:** Students often rely on physical checks to find available machines, leading to repeated trips and wasted time, although some also use dormitory group chats.
 
-**Interviews behind it:** 01, 02, 03, 04
+**Interviews behind it:** 01, 02, 03, 04, 05, 06
 
 **Quotes:**
 
@@ -34,11 +38,16 @@
 - "Some people exhibit inhuman tendencies, like when they use the 3 hour modes to wash their clothes, like when you go down and occupy 3 washing machines and run 3 hour cycles on all of them while a hundred people are waiting for you when you are going to come back..." (04)
 - "What I actually feel and bothers me and I lose a lot of time doing it is when I take my clothes down and none of the machines are free, or someone has left their clean laundry in the machine unattended, or there are even cases where it shows that there is 1 minute left and that 1 minute ends up being 30." (04)
 
+- "For example, last time, some girl's washing machine showed one minute remaining, and she knew I was waiting for it. So I asked her, “Is that yours?” and she said yes. So I'm sitting there waiting, and that one minute turned into like 15–20 minutes. Then she took her clothes out, and I was like, “Okay, I'll put mine in now.” But then she pulled out another huge bag and said, “Sorry, I still have more clothes to wash.” So basically, I sat there for 15 minutes for nothing, like an idiot." (05; English translation)
+- "Finding an available washing machine usually takes the most time, probably around an hour. I mean, there are only five washing machines in total, and just think about how many students there are." (05; English translation)
+- "There are many times when I have to go up and down to look for free washing machines or wait for them to end and that of course takes a lot of time." (06)
+- "Somehow knowing whether machines are available or not would help so much as that is major problem why my time is wasted and I would save much time knowing when to go down. " (06)
+
 ## Pattern 3
 
 **Pattern:** When students leave their laundry uncollected, others must wait or move their clothes, creating delays, discomfort, and concerns about damaging personal belongings.
 
-**Interviews behind it:** 01, 02, 03, 04
+**Interviews behind it:** 01, 02, 03, 04, 05, 06
 
 **Quotes:**
 
@@ -59,11 +68,22 @@
 - "Something along those lines happened to me before and it vas very unpleasant." (04)
 - "Well nothing major, I was just 5 minutes late, I was doing the dishes and when I finished I went down to the laundry room to move my clothes to the dryer and well my clothes were nowhere to be seen. I then spotted them on top of a different washing machine mixed up with clothes of other people that was maybe lost or something, I only got a portion of my clothes back that day, many of them I still don't know where they are." (04)
 
+- "Basically, there’s almost always laundry left in the machines. You just don’t really pay attention to it when there are free machines available. But when all the machines are occupied, that’s when you start noticing the laundry people have left behind. So yeah, there’s pretty much always at least one machine with clothes left in it, sometimes two or three on average." (05; English translation)
+- "Usually, I just go back upstairs and check again the next time I come down to see if the laundry is gone. But if someone really doesn't bother picking up their clothes and clearly doesn't care about their laundry, then yeah, I've taken their clothes out of the machine a few times." (05; English translation)
+- "I usually go back upstairs and give them about an hour to pick up their laundry. And yeah, if I do take someone’s clothes out, I at least put them on a chair. But the other day, some girl took someone else’s laundry out right in front of me and literally dragged it across the floor." (05; English translation)
+- "Most of the time, I go downstairs before the washing cycle finishes. I usually set a timer for a little less time than the cycle takes, and then I go down.." (05; English translation)
+- "I think it’s perfectly reasonable to take someone’s laundry out after waiting about 5–10 minutes. If anything, I’m the unreasonable one for waiting an entire hour." (05; English translation)
+- "I don’t have a problem with someone taking my laundry out of the machine. It depends on how they do it. I mean, I’m fine with it as long as the person does it respectfully and handles my clothes properly." (05; English translation)
+- "Roughly, I wait for 10-15 minutes until someone comes for their left behind clothes, and if they do not I have to put them out myself to not waste any more time because of someone else." (06)
+- "Actually there was one time when my own clothes were removed by someone else, because I had some private issues and could not get them on time and I went in the laundry room 15-20 minutes late and found half of my clothes dropped on the floor, which of course needed another wash afterwards. " (06)
+- "Of course I am not happy about touching someone's clothes and moving them myself, but what can we do, some people just do not leave u any other choice." (06)
+- "There was 2 or 3 times when I could not make it in time and one time I told u what happened but on other 2, they had just left my clothes on the chair which is completely okay, as I do not think that someone should wait for me to come down and get my clothes for a long time, no matter the reason, so yea as long as it is done properly I do not have any problems with it." (06)
+
 ## Pattern 4
 
-**Pattern:** Malfunctioning washing machines reduce the number of usable machines, increase waiting, and sometimes force students to handle technical problems themselves.
+**Pattern:** Limited numbers of usable machines, faults, and poor maintenance increase waiting and sometimes force students to handle technical problems themselves.
 
-**Interviews behind it:** 01, 03, 04
+**Interviews behind it:** 01, 03, 04, 05
 
 **Quotes:**
 
@@ -77,11 +97,16 @@
 - "There are lots of times when the washing machines are broken." (04)
 - "For this many students and a dorm building of this size, in my opinion, there are too few washing machines." (04)
 
+- "I’d add more dryers and washing machines, but honestly, I’d throw all the ones we have now straight in the trash. Not a single one of them is any good.." (05; English translation)
+- "Another thing that I think is absolutely necessary is that the washing machines and dryers should be cleaned or maintained regularly, either at the end of each day or at certain intervals. Because some of them are in such a disgusting condition that I don't even feel like washing my clothes in them. Sometimes I think my clothes would be better off staying dirty than being washed in those machines. I've gone down there and seen them in that state so many times. I don't know, the situation is just terrible." (05; English translation)
+- "Finding an available washing machine usually takes the most time, probably around an hour. I mean, there are only five washing machines in total, and just think about how many students there are." (05; English translation)
+- "I mean, that’s also just a human factor. You can’t always expect people to be on time. It’s happened to me too, when I couldn’t go down and pick up my laundry on time. So the real problem isn’t that someone forgets to put their laundry in or take it out or something like that. The main issue is that there are simply too few washing machines." (05; English translation)
+
 ## Pattern 5
 
 **Pattern:** Unreliable dryers and concerns about clothing damage lead students to restart cycles, switch machines, or dry clothes elsewhere.
 
-**Interviews behind it:** 02, 03, 04
+**Interviews behind it:** 02, 03, 04, 05
 
 **Quotes:**
 
@@ -92,6 +117,8 @@
 - "The problem with the dryer is that it sometimes stops by itself after you turn it on. You think it's working, but it's actually off. When you set it for an hour, it can stop after just 10 minutes. You think your clothes have been drying for an hour, but when you go downstairs and open it, they're still damp or wet. You've gone downstairs for nothing." (03)
 - "There was a time when I put my clothes in a dryer and left them there. When I came back downstairs, it was still spinning, but when I opened it and checked, the clothes were just as wet as before. So I moved them to another dryer and started the cycle again." (03)
 - "Some people even dry their clothes in their own rooms, because of some problems with the dryers you know, some clothes get shrunk in the dryers and so on." (04)
+
+- "I’d add more dryers and washing machines, but honestly, I’d throw all the ones we have now straight in the trash. Not a single one of them is any good.." (05; English translation)
 
 ## Pattern 6
 
@@ -132,6 +159,13 @@ The following quotes are background details, individual preferences, or one-off 
 - "Also, I think there should at least be an internet connection in the laundry room, because some people when they go down, they bring cards and three other people with them, just to have something to do." (04)
 - "My ex-roommate used to wash everything by hand." (04)
 
+- "I usually take my laundry down every other day for sure, sometimes even every day." (05; English translation)
+- "I usually don't feel like going down there, but what can you do? The laundry piles up pretty quickly." (05; English translation)
+- "There should be someone who you can address and talk to about these problems, something like the technical team we have on campus." (05; English translation)
+- "Basically, I go downstairs, put my clothes in the washing machine, then come back upstairs and wait. After that, I go down and put them in the dryer, wait for that to finish too, and finally go back downstairs, take my clothes out, and come back up.." (05; English translation)
+- "That would be the best thing ever, if you could, for example, check how many machines are occupied. It should also show which machines are broken. And another thing is, it’s one thing for a washing cycle to be finished, but it should also show whether the person has actually taken their laundry out of the machine or not." (05; English translation)
+- "In general, there could also be separate laundry facilities for girls and boys, because, for example, girls might not feel comfortable when someone else takes their clothes out of the machine." (05; English translation)
+
 ---
 
-**Self-check before committing:** Each pattern describes a specific finding from real KIU student interviews rather than a broad topic. All 61 supplied quotes from Interviews 01–04 have been grouped (46 from Interviews 01–03, plus 15 from Interview 04). This map must be reviewed and updated after Interviews 05–06, including any contradictory evidence. Interview 04 must be numbered consistently in the GitHub log filename and heading.
+**Self-check before committing:** The original 01–04 quote groupings are preserved. The new 05–06 quotes are labeled and should be checked against the interview logs. The 15-minute **usual** collection-time claim is not established by this evidence. Specific suggestions from Interview 05 are interviewee preferences, not verified solution requirements.
