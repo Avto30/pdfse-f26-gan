@@ -1,7 +1,7 @@
 # Interview Script v2
 
-**Problem we are investigating:** Campus washing-machine availability
-**Our prediction:** Completed laundry is usually picked up within 15 minutes after the washing cycle ends
+**Problem we are investigating:** Campus washing-machine availability  
+**Our prediction:** Completed laundry is usually picked up within 15 minutes after the washing cycle ends  
 **Language:** Georgian/English
 
 ## Opening (2 min, word for word)
@@ -11,7 +11,7 @@ Hello, we are learning how campus students use shared washing machines. We are h
 1. What is your name, which faculty are you in, and how long have you been living on campus?
 2. How would you describe your experience of living on campus?
 
-## Core (12 to 15 min):
+## Core (12 to 15 min)
 1. How often do you wash/dry your clothes on campus?
 2. Tell me how you usually choose a washing/drying program and decide how to use the machine. Was there a time you were unsure what to do?
 3. What do you think you don't know? If Q2 reveals uncertainty: What specifically were you unsure about the last time?
@@ -30,8 +30,7 @@ Hello, we are learning how campus students use shared washing machines. We are h
     2. Do you have any way of finding out whether a washing machine/dryer is available? How did you check availability the last time you needed one?
 14. During your last laundry session, which part of the process took the most time? Approximately how long did it take?
 
-Prefer asking without examples first, but if necessary: For example, bringing your laundry downstairs, waiting for others, restarting a washing cycle because the clothes were not washed properly, or dealing with a cycle that takes longer than the time initially displayed.
-
+    *Prefer asking without examples first, but if necessary:* For example, bringing your laundry downstairs, waiting for others, restarting a washing cycle because the clothes were not washed properly, or dealing with a cycle that takes longer than the time initially displayed.
 
 ## Close (2 min)
 1. Who else should we talk to about this topic?
