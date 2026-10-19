@@ -59,7 +59,7 @@
 
 ## Pattern 5: Unreliable dryers and concerns about clothing damage lead students to restart cycles, switch machines, or dry clothes elsewhere.
 
-**Interviews behind it:** 02, 03, 04, 05
+**Interviews behind it:** 02, 03, 04
 
 1. **Why does this happen?** Interviews 02 and 03 report dryers stopping early or failing to dry properly; Interview 04 reports avoiding dryers for some clothes because they may shrink.
 2. **Why does that create more work?** Interviews 02 and 03 describe repeated cycles, switching machines or carrying clothes upstairs, and Interview 04 says some students dry laundry in their rooms.
@@ -67,8 +67,6 @@
 **Root cause, one sentence:** Students cannot fully rely on dryers to finish on time and handle clothes safely, so they add checks, repeat cycles, or find another drying location.
 
 **Which answer above is a guess rather than a quote?** The technical reasons for dryer failures and the frequency of shrinkage are not established.
-
-**New evidence (05):** Interview 05 reports poor condition of existing dryers and washers. No technical inspection was performed, so failure rates remain unknown.
 
 ## Pattern 6: Students respond differently to repeated laundry problems: some continue using the facilities despite difficulties, while others stop using them altogether.
 
