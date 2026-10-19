@@ -1,87 +1,87 @@
 # Patterns Analysis
 
-**Interviews analyzed:** 01, 02, 03
+**Interviews analyzed:** 01, 02, 03, 04
 
 ## Pattern 1: Students adjust their laundry schedules to quieter morning hours to avoid crowded machines and reduce waiting.
 
 **Interviews behind it:** 01, 02, 03
 
-1. **Why does this happen?** Students find washing machines more available in the mornings than during busy hours. Interview 01 specifically describes crowded evenings, while Interview 02 also reports that mornings are easier.
-2. **Why do busy hours cause difficulties?** The number of usable machines does not always meet student demand. Interview 01 describes occupied machines and insufficient capacity, while Interview 03 reports that several machines are broken.
-3. **Why are fewer usable machines available than students need?** Some machines are malfunctioning, reducing the number students can actually use (01, 03). However, the interviews do not establish why those machines remain broken.
+1. **Why does this happen?** Interview 01 describes busy evenings, and Interview 02 says machines are easier to find in the morning.
+2. **Why are busier periods difficult?** Interview 01 reports that usable machines are frequently occupied, while Interview 03 describes limited capacity because some machines are broken.
+3. **Why is usable capacity limited?** Faults reduce the number of working machines (01, 03); the interviews do not explain why repairs have not resolved these faults.
 
-**Root cause, one sentence:** Limited usable washing-machine capacity during busy periods pushes students to adjust their schedules to avoid waiting.
+**Root cause, one sentence:** Crowding and limited usable machine capacity lead some students to shift laundry to less convenient hours.
 
-**Which answer above is a guess rather than a quote?** The direct connection between unrepaired machines and every student's choice of morning hours is an inference. We should investigate whether overcrowding or broken equipment is the main reason for changing laundry schedules.
+**Which answer above is a guess rather than a quote?** Whether faults, total machine count, or demand peaks are the primary reason for the schedule changes remains unmeasured.
 
-## Pattern 2: Students cannot reliably check machine availability without visiting the laundry room, causing repeated trips, wasted time, and missed opportunities to wash their clothes.
+## Pattern 2: Students often rely on physical checks to find available machines, leading to repeated trips and wasted time, although some also use dormitory group chats.
 
-**Interviews behind it:** 01, 02, 03
+**Interviews behind it:** 01, 02, 03, 04
 
-1. **Why does this happen?** Students often have to visit the laundry room to check whether machines are available. Interview 02 describes repeatedly going upstairs and downstairs, and Interview 03 describes checking availability in person.
-2. **Why can checking in person still be unreliable?** Availability can change before students return with their clothes. Interview 03 describes finding three free machines that were all occupied by the time the student returned.
-3. **Why do students continue relying on physical checks?** Interview 02 reports having no other method, and Interview 03 describes physical checking as the only known option. Interview 01 mentions using a dormitory group chat as an alternative, showing that students have different ways of obtaining availability information.
+1. **Why does this happen?** Interview 02 describes repeated trips to check free machines, Interview 03 describes checking in person, and Interview 04 describes going up and down when no machine is available.
+2. **Why does checking once not resolve the problem?** Interview 03 found three machines free but all were occupied on returning; Interview 04 describes a machine's displayed final minute lasting much longer than expected.
+3. **Why do students keep relying on manual checks?** Interview 02 knows no alternative and Interview 03 says checking downstairs is the only known method, although Interview 01 also uses a group chat.
 
-**Root cause, one sentence:** Students lack consistently dependable availability information, so checking machines can require repeated physical trips without guaranteeing that a machine will still be free.
+**Root cause, one sentence:** Students have no consistently dependable way to know whether a usable machine will be available when they arrive, so they rely on imperfect checks and repeated trips.
 
-**Which answer above is a guess rather than a quote?** The interviews do not establish whether an official availability-monitoring system exists or whether students are simply unaware of one. We should ask what information sources are available and how reliable they are.
+**Which answer above is a guess rather than a quote?** The logs do not establish whether a reliable information system exists, how accurate the group chat is, or why a displayed remaining minute becomes longer.
 
 ## Pattern 3: When students leave their laundry uncollected, others must wait or move their clothes, creating delays, discomfort, and concerns about damaging personal belongings.
 
-**Interviews behind it:** 01, 02, 03
+**Interviews behind it:** 01, 02, 03, 04
 
-1. **Why does this happen?** Some students do not collect their laundry immediately after a washing cycle finishes, leaving machines occupied. Interview 01 describes waiting approximately 10 minutes before moving clothes, while Interviews 02 and 03 report waiting as long as 20–30 minutes.
-2. **Why do other students move unattended laundry?** They need access to the machines and do not want to continue waiting. Interviews 01 and 02 describe removing clothes after waiting, and Interview 03 describes similar situations.
-3. **Why does moving laundry create additional problems?** Students have different preferences about handling other people's clothes. Interview 01 describes transferring clothes and leaving a sticker, Interview 02 avoids using dryers because clothes might shrink, and Interview 03 describes discomfort with removing other people's laundry.
+1. **Why does this happen?** Some cycles finish while the owner has not returned, so others encounter completed clothes inside machines (01, 02, 03); Interview 04 also reports having her clothes removed after she returned five minutes late.
+2. **Why do students move other people's laundry?** Students are waiting to use scarce machines (01, 02, 03), and Interview 04 explicitly connects removing clothes to the shortage of other free machines.
+3. **Why can this create serious consequences?** Interview 02 reports a friend's shirt shrinking when moved to a dryer, and Interview 04 reports finding her clothes mixed with others and still missing some items.
 
-**Root cause, one sentence:** Shared machines remain unavailable until finished laundry is collected or moved, forcing other students to choose between waiting and handling someone else's belongings.
+**Root cause, one sentence:** Scarce shared capacity and informal, inconsistent ways of dealing with completed loads force students into choices that can cause waiting, conflict, damage, or lost clothing.
 
-**Which answer above is a guess rather than a quote?** We do not know why owners fail to collect their laundry promptly or whether clear collection rules exist. These should be investigated in future interviews.
+**Which answer above is a guess rather than a quote?** We do not yet know how often owners collect clothes within 15 minutes, why they return late, or whether all laundry rooms have agreed procedures for safely moving belongings.
 
 ## Pattern 4: Malfunctioning washing machines reduce the number of usable machines, increase waiting, and sometimes force students to handle technical problems themselves.
 
-**Interviews behind it:** 01, 03
+**Interviews behind it:** 01, 03, 04
 
-1. **Why does this happen?** Some washing machines are broken or cannot complete their cycles correctly. Interview 01 reports that certain machines are unusable even when empty, while Interview 03 describes a machine that failed to drain and spin clothes.
-2. **Why does this increase waiting and inconvenience?** Fewer working machines remain available for students, and technical failures can create extra work. Interview 01 reports insufficient usable machines, while Interview 03 describes manually draining water and wringing clothes.
+1. **Why does this happen?** Interview 01 says some empty machines cannot be used, Interview 03 recounts a washing machine that would not drain and spin, and Interview 04 reports frequent broken machines.
+2. **Why does that increase delays?** Students compete for fewer working machines (01, 03, 04), and a failed cycle may require unexpected manual work (03).
 
-**Root cause, one sentence:** Washing-machine malfunctions reduce usable capacity and make completing laundry unpredictable, creating extra waiting and manual work.
+**Root cause, one sentence:** Machine breakdowns reduce already limited usable capacity and make completing washing cycles unpredictable.
 
-**Which answer above is a guess rather than a quote?** The underlying technical causes and maintenance response times are not established. Interview 03 suggests incorrect detergent use as one explanation, but this has not been independently confirmed.
+**Which answer above is a guess rather than a quote?** The causes of breakdowns, repair frequency, and actual percentage of unusable machines have not been independently verified; Interview 03's detergent explanation is the participant's view, not an established technical finding.
 
-## Pattern 5: Unreliable dryers extend laundry sessions because students must restart drying cycles, switch machines, or dry their clothes elsewhere.
+## Pattern 5: Unreliable dryers and concerns about clothing damage lead students to restart cycles, switch machines, or dry clothes elsewhere.
 
-**Interviews behind it:** 02, 03
+**Interviews behind it:** 02, 03, 04
 
-1. **Why does this happen?** Dryers sometimes stop unexpectedly or fail to dry clothes properly. Interview 02 reports restarting dryers, and Interview 03 describes dryers stopping after approximately 10 minutes despite being set for an hour.
-2. **Why does this create additional delays?** Students must return to check their clothes, restart the cycle, switch dryers, or finish drying elsewhere. Both Interviews 02 and 03 describe these extra steps.
+1. **Why does this happen?** Interviews 02 and 03 report dryers stopping early or failing to dry properly; Interview 04 reports avoiding dryers for some clothes because they may shrink.
+2. **Why does that create more work?** Interviews 02 and 03 describe repeated cycles, switching machines or carrying clothes upstairs, and Interview 04 says some students dry laundry in their rooms.
 
-**Root cause, one sentence:** Unreliable dryer operation prevents students from depending on an expected drying time, forcing them to monitor and sometimes repeat the drying process.
+**Root cause, one sentence:** Students cannot fully rely on dryers to finish on time and handle clothes safely, so they add checks, repeat cycles, or find another drying location.
 
-**Which answer above is a guess rather than a quote?** The interviews do not establish why dryers stop or fail to dry properly. The technical cause needs further investigation.
+**Which answer above is a guess rather than a quote?** The technical reasons for dryer failures and the frequency of shrinkage are not established.
 
 ## Pattern 6: Students respond differently to repeated laundry problems: some continue using the facilities despite difficulties, while others stop using them altogether.
 
 **Interviews behind it:** 01, 03
 
-1. **Why does this happen?** Students experience different levels of inconvenience. Interview 01 reports satisfaction despite broken machines, while Interview 03 describes serious technical failures, waiting, and lost study time.
-2. **Why did one student stop using the facilities?** Repeated problems made campus laundry too inconvenient. Interview 03 reports no longer using the laundry room and taking clothes to Tbilisi instead.
-3. **Why does another student continue using them?** Interview 01 considers the problems manageable and values having access to laundry facilities on campus.
+1. **Why does this happen?** Interview 01 still considers campus washing useful despite problems, while Interview 03 reports repeated waiting and equipment failures.
+2. **Why does Interview 03 no longer use the facilities?** The participant says the problems were significant enough that they now bring laundry to Tbilisi.
+3. **Why does Interview 01 continue using them?** The participant says the inconvenience is manageable and values having the facility available.
 
-**Root cause, one sentence:** The impact of laundry problems differs between students, with severe and repeated disruptions making campus facilities unacceptable for some users while others manage through adjustments.
+**Root cause, one sentence:** Students react differently depending on the severity and manageability of the disruptions they experience.
 
-**Which answer above is a guess rather than a quote?** We cannot yet determine which specific problem causes students to abandon the facilities or whether other factors influence that decision.
+**Which answer above is a guess rather than a quote?** We cannot tell which exact threshold makes a student stop using the facilities or whether travel options affect that choice.
 
 ## Pattern 7: Students initially struggle with washing-machine controls but learn how to use the equipment through friends or experience.
 
 **Interviews behind it:** 01, 02
 
-1. **Why does this happen?** New users are unfamiliar with washing-machine and dryer controls. Interview 01 describes not understanding washing modes at first, and Interview 02 reports similar initial difficulties.
-2. **Why do these difficulties eventually decrease?** Students learn through experience or help from others. Interview 01 specifically mentions friends explaining the controls, while Interview 02 reports learning how to use the equipment over time.
+1. **Why does this happen?** Both participants report being unfamiliar with machine or dryer controls when they first arrived.
+2. **Why did this become less difficult?** Interview 01 learned from friends, and Interview 02 says the participant learned over time.
 
-**Root cause, one sentence:** Initial unfamiliarity with laundry equipment creates a learning barrier that students overcome through informal help and experience.
+**Root cause, one sentence:** New residents initially lack experience with the shared equipment and learn informally rather than describing a lasting usability barrier.
 
-**Which answer above is a guess rather than a quote?** The interviews do not establish whether machine instructions or formal guidance are missing or inadequate.
+**Which answer above is a guess rather than a quote?** The presence or quality of written instructions and formal orientation was not established.
 
 ---
 
@@ -91,8 +91,8 @@
 
 **Why it is the strongest, in two sentences, citing log numbers:**
 
-All three interviews describe unattended laundry causing concrete difficulties, including waiting approximately 10 minutes in Interview 01, waiting 20–30 minutes in Interview 02, and waiting up to half an hour in Interview 03. The evidence identifies a clear recurring problem: machines remain occupied by finished laundry, leaving other students to wait or move someone's belongings, sometimes risking damage (01, 02, 03).
+All four interviews describe the difficulties around finished laundry occupying a machine or being handled by another student, from waiting or moving clothes (01, 02, 03) to losing personal items after clothes were moved when their owner was five minutes late (04). The pattern has concrete costs, including waits of 10–30 minutes (01, 02, 03), a reported shrunken 300 GEL shirt (02), and clothing that was still missing after a laundry session (04).
 
 ---
 
-**Evidence limitations:** This analysis currently covers three real interviews. Patterns and root-cause explanations must be reviewed after Interviews 04–06 are added, and possible explanations that are not directly supported by the logs should be tested rather than presented as established facts.
+**Evidence limitations:** These are four interviews, not a prevalence study; the claim that laundry is *usually* collected after a particular number of minutes remains unverified. Review patterns and root causes when Interviews 05 and 06 arrive.
