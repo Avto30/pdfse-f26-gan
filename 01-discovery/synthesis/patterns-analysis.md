@@ -1,10 +1,10 @@
 # Patterns Analysis
 
-**Interviews analyzed:** 01, 02, 03, 04
+**Interviews analyzed:** 01, 02, 03, 04, 05, 06
 
-## Pattern 1: Students adjust their laundry schedules to quieter morning hours to avoid crowded machines and reduce waiting.
+## Pattern 1: Students adjust their laundry schedules to quieter hours or less crowded days to avoid crowded machines and reduce waiting.
 
-**Interviews behind it:** 01, 02, 03
+**Interviews behind it:** 01, 02, 03, 05, 06
 
 1. **Why does this happen?** Interview 01 describes busy evenings, and Interview 02 says machines are easier to find in the morning.
 2. **Why are busier periods difficult?** Interview 01 reports that usable machines are frequently occupied, while Interview 03 describes limited capacity because some machines are broken.
@@ -14,9 +14,11 @@
 
 **Which answer above is a guess rather than a quote?** Whether faults, total machine count, or demand peaks are the primary reason for the schedule changes remains unmeasured.
 
+**New evidence (05–06):** Interview 05 reports staying awake late or waking early to find a machine; Interview 06 usually chooses weekends because fewer students are around. The exact best time differs between residents.
+
 ## Pattern 2: Students often rely on physical checks to find available machines, leading to repeated trips and wasted time, although some also use dormitory group chats.
 
-**Interviews behind it:** 01, 02, 03, 04
+**Interviews behind it:** 01, 02, 03, 04, 05, 06
 
 1. **Why does this happen?** Interview 02 describes repeated trips to check free machines, Interview 03 describes checking in person, and Interview 04 describes going up and down when no machine is available.
 2. **Why does checking once not resolve the problem?** Interview 03 found three machines free but all were occupied on returning; Interview 04 describes a machine's displayed final minute lasting much longer than expected.
@@ -26,9 +28,11 @@
 
 **Which answer above is a guess rather than a quote?** The logs do not establish whether a reliable information system exists, how accurate the group chat is, or why a displayed remaining minute becomes longer.
 
+**New evidence (05–06):** Interview 05 estimates about an hour to find a free washer and wants to distinguish occupied, broken, and finished-but-not-emptied machines. Interview 06 describes repeated trips and says knowing availability would save time.
+
 ## Pattern 3: When students leave their laundry uncollected, others must wait or move their clothes, creating delays, discomfort, and concerns about damaging personal belongings.
 
-**Interviews behind it:** 01, 02, 03, 04
+**Interviews behind it:** 01, 02, 03, 04, 05, 06
 
 1. **Why does this happen?** Some cycles finish while the owner has not returned, so others encounter completed clothes inside machines (01, 02, 03); Interview 04 also reports having her clothes removed after she returned five minutes late.
 2. **Why do students move other people's laundry?** Students are waiting to use scarce machines (01, 02, 03), and Interview 04 explicitly connects removing clothes to the shortage of other free machines.
@@ -38,9 +42,11 @@
 
 **Which answer above is a guess rather than a quote?** We do not yet know how often owners collect clothes within 15 minutes, why they return late, or whether all laundry rooms have agreed procedures for safely moving belongings.
 
-## Pattern 4: Malfunctioning washing machines reduce the number of usable machines, increase waiting, and sometimes force students to handle technical problems themselves.
+**New evidence (05–06):** Interview 05 sometimes waits an hour, but thinks 5–10 minutes is a reasonable waiting period; Interview 06 generally waits 10–15 minutes and once found his own clothes on the floor after arriving late. These accounts concern different incidents and do not establish when loads are *usually* collected.
 
-**Interviews behind it:** 01, 03, 04
+## Pattern 4: Limited usable machine capacity, faults, and maintenance problems increase waiting and sometimes force students to handle technical problems themselves.
+
+**Interviews behind it:** 01, 03, 04, 05
 
 1. **Why does this happen?** Interview 01 says some empty machines cannot be used, Interview 03 recounts a washing machine that would not drain and spin, and Interview 04 reports frequent broken machines.
 2. **Why does that increase delays?** Students compete for fewer working machines (01, 03, 04), and a failed cycle may require unexpected manual work (03).
@@ -49,9 +55,11 @@
 
 **Which answer above is a guess rather than a quote?** The causes of breakdowns, repair frequency, and actual percentage of unusable machines have not been independently verified; Interview 03's detergent explanation is the participant's view, not an established technical finding.
 
+**New evidence (05):** Interview 05 describes dirty equipment, limited machine numbers, and a wish for someone responsible for maintenance. The participant explicitly sees too few machines as the larger issue, so delays cannot be attributed solely to unattended clothes.
+
 ## Pattern 5: Unreliable dryers and concerns about clothing damage lead students to restart cycles, switch machines, or dry clothes elsewhere.
 
-**Interviews behind it:** 02, 03, 04
+**Interviews behind it:** 02, 03, 04, 05
 
 1. **Why does this happen?** Interviews 02 and 03 report dryers stopping early or failing to dry properly; Interview 04 reports avoiding dryers for some clothes because they may shrink.
 2. **Why does that create more work?** Interviews 02 and 03 describe repeated cycles, switching machines or carrying clothes upstairs, and Interview 04 says some students dry laundry in their rooms.
@@ -59,6 +67,8 @@
 **Root cause, one sentence:** Students cannot fully rely on dryers to finish on time and handle clothes safely, so they add checks, repeat cycles, or find another drying location.
 
 **Which answer above is a guess rather than a quote?** The technical reasons for dryer failures and the frequency of shrinkage are not established.
+
+**New evidence (05):** Interview 05 reports poor condition of existing dryers and washers. No technical inspection was performed, so failure rates remain unknown.
 
 ## Pattern 6: Students respond differently to repeated laundry problems: some continue using the facilities despite difficulties, while others stop using them altogether.
 
@@ -91,8 +101,10 @@
 
 **Why it is the strongest, in two sentences, citing log numbers:**
 
-All four interviews describe the difficulties around finished laundry occupying a machine or being handled by another student, from waiting or moving clothes (01, 02, 03) to losing personal items after clothes were moved when their owner was five minutes late (04). The pattern has concrete costs, including waits of 10–30 minutes (01, 02, 03), a reported shrunken 300 GEL shirt (02), and clothing that was still missing after a laundry session (04).
+All six interviews describe problems related to completed loads and how students respond, including waiting or moving clothes (01, 02, 03, 05, 06) and missing belongings after moving clothes (04). The consequences range from 10–30-minute waits (01, 02, 06) and a reported shrunken shirt (02) to missing clothes (04) and clothes placed on the floor that required washing again (06).
+
+**Important competing finding:** Pattern 2 is also supported across six logs, and Interview 05 explicitly states that too few usable machines matter more than late collection. We should test whether capacity and availability, rather than unattended laundry alone, are the primary drivers of delays.
 
 ---
 
-**Evidence limitations:** These are four interviews, not a prevalence study; the claim that laundry is *usually* collected after a particular number of minutes remains unverified. Review patterns and root causes when Interviews 05 and 06 arrive.
+**Evidence limitations:** These are six interviews, not a prevalence study. The claim that completed laundry is *usually* collected within 15 minutes remains unverified, and participant waiting time is not the same measurement as a machine owner’s collection delay. Students disagree about the main problem; machine counts and breakdown rates have not been independently verified.
