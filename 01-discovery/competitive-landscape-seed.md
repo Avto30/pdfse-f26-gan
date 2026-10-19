@@ -28,7 +28,7 @@
 
 **Physically going to the laundry room to check machine availability.**
 
-All six interviews mention the need to inspect the laundry room or make trips to find a usable machine (01, 02, 03, 04). Even though that can waste time or end with all machines occupied, the interviewees repeatedly describe doing it in practice, while the chat mentioned by Interview 01 is not an established option for everyone (01, 02, 03, 04, 05, 06).
+All six interviews mention checking the laundry room in person or making trips to find an available machine (01, 02, 03, 04, 05, 06). Although this can waste time or end with all machines occupied, students continue using this approach. Interview 01 also mentions a dormitory group chat, but the interviews do not establish that this is a dependable option for everyone.
 
 ## Alternatives nobody mentioned
 
@@ -49,4 +49,4 @@ All six interviews mention the need to inspect the laundry room or make trips to
 - [x] Six logs are cited for behaviors that actually appear in them.
 - [x] Workarounds are distinguished from untested solution requests.
 - [x] Where no limitation was reported, it is not invented.
-- [ ] Verify that 05/06 GitHub filenames match the citations before submitting.
+- [x] Verify that 05/06 GitHub filenames match the citations before submitting.
