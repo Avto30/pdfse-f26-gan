@@ -4,24 +4,22 @@
 
 | Log file (link) | My role (asked / logged / both) | What this interview changed, in one sentence |
 |---|---|---|
-| [Interview 01](../../01-discovery/interview-logs/real/01-student-campus.md) | asked | I learned that unattended laundry creates delays, but students also deal with broken machines and sometimes change their schedule to avoid busy hours. |
-| [Interview 02](../../01-discovery/interview-logs/real/02-student-campus.md) | logged | This interview showed me how much time students lose checking availability and how laundry problems can even lead to damaged clothes. |
-| [Interview 03](../../01-discovery/interview-logs/real/03-student-campus.md) | asked | I discovered that one student had stopped using the campus laundry facilities and started taking her clothes to Tbilisi. |
-| [Interview 04](../../01-discovery/interview-logs/real/04-student-campus.md) | logged | I learned that moving unattended clothes can create more serious problems, including missing belongings. |
-| [Interview 05](../../01-discovery/interview-logs/real/05-student-campus.md) | logged | This student described spending about an hour finding a free machine and believed that the limited number of working machines was the main issue. |
-| [Interview 06](../../01-discovery/interview-logs/real/06-student-campus.md) | logged | I learned that a student sometimes waits 10–15 minutes before moving unattended laundry and once found his own clothes left on the floor. |
+| [Interview 01](../../01-discovery/interview-logs/real/01-student-campus.md) | asked | I learned that unattended laundry creates delays, but broken machines and busy hours also affect students. |
+| [Interview 02](../../01-discovery/interview-logs/real/02-student-campus.md) | logged | Repeated availability checks waste time, and moving clothes into dryers may damage them. |
+| [Interview 03](../../01-discovery/interview-logs/real/03-student-campus.md) | asked | One participant stopped using the campus facilities and began taking clothes to Tbilisi because of repeated problems. |
+| [Interview 04](../../01-discovery/interview-logs/real/04-student-campus.md) | logged | Moving unattended clothing can have more serious consequences, including lost items. |
+| [Interview 05](../../01-discovery/interview-logs/real/05-student-campus.md) | logged | A student reported spending up to an hour finding an available machine and emphasized limited usable capacity. |
+| [Interview 06](../../01-discovery/interview-logs/real/06-student-campus.md) | logged | A student usually waits 10–15 minutes before moving unattended laundry and once found his own clothes on the floor after returning late. |
 
 **The quote I heard myself that mattered most, with its log number:**
 
 > "Roughly, I wait for 10-15 minutes until someone comes for their left behind clothes, and if they do not I have to put them out myself to not waste any more time because of someone else." (Interview 06)
 
-This quote mattered to me because it gave us a specific example of how students handle unattended laundry. It also showed that waiting is not the only inconvenience: students sometimes have to touch and move other people's belongings.
+This stood out because it gave us a concrete example of waiting and how students handle others' belongings, but one person's experience does not establish the usual collection time.
 
-**One moment I broke the Mom Test, and what I asked instead next time:**
+**One moment I broke the Mom Test, and what I asked instead next time** (name the log):
 
-In Interview 01, I asked directly about unattended laundry because it was the problem our team wanted to investigate. Looking back, that could have directed the conversation toward our hypothesis rather than letting the student describe their experience freely.
-
-I did not record the exact wording of a corrected question in a later interview, so I cannot claim that I asked a specific replacement. A better question for my next interview would be: "Can you walk me through the last time you did your laundry and tell me what happened?" I would then ask follow-up questions based on the student's actual experience.
+In Interview 01, I asked directly about unattended laundry because it was our original hypothesis. Looking back, this could have steered the conversation toward the answer we expected. I would instead ask, "Tell me about the last time you did your laundry. What happened next?" and only ask about unattended clothes if the participant brought them up or after the open questions. I cannot verify the exact replacement wording from a later interview, so I am describing the correction I would make rather than claiming a specific follow-up was asked.
 
 ## 2. Pattern journal, Weeks 1 to 4
 
@@ -75,20 +73,15 @@ I also updated our Problem Hypothesis with the interview evidence. For now, I th
 
 | The line, copied | What I did for it |
 |---|---|
-| 2. Wk3 · Decided to develop a problem hypothesis about campus laundry availability and test it through interviews and small experiments before deciding whether the problem was worth pursuing. · evidence: `01-discovery/problem-hypothesis.md` · owner: Team | I contributed to the initial hypothesis and helped prepare the interview questions. |
-| 4. Wk3 · Prediction: "Completed laundry is usually picked up within 15 minutes after the washing cycle ends." Verdict: weakened. Interviews indicate that unattended laundry causes waiting, but the evidence does not establish how long students usually take to collect their clothes. · evidence: `01-discovery/interview-logs/real/01-student-campus.md`; `01-discovery/interview-logs/real/02-student-campus.md`; `01-discovery/interview-logs/real/03-student-campus.md` · owner: Team | I conducted Interviews 01 and 03, contributed their evidence, and committed the prediction verdict to DECISIONS.md. |
-| 5. Wk3 · Confirmed that laundry availability and unattended clothes are relevant problems to investigate further, based on the interview findings. The team will continue collecting evidence before finalizing the problem statement and deciding which solution, if any, is appropriate. · evidence: `01-discovery/interview-logs/real/01-student-campus.md` · owner: Team | I conducted Interview 01 and helped document the findings that supported investigating the problem further. |
-
-**Related evidence:** [DECISIONS.md](../../DECISIONS.md)
+| 2. Wk3 · Decided to develop a problem hypothesis about campus laundry availability and test it through interviews and small experiments before deciding whether the problem was worth pursuing. · evidence: `01-discovery/problem-hypothesis.md` · owner: Team | I contributed my personal hypothesis about availability, and helped prepare the hypotheses and interview questions. |
+| 4. Wk3 · Prediction: "Completed laundry is usually picked up within 15 minutes after the washing cycle ends." Verdict: weakened. Interviews indicate that unattended laundry causes waiting, but the evidence does not establish how long students usually take to collect their clothes. · evidence: `01-discovery/interview-logs/real/01-student-campus.md`; `01-discovery/interview-logs/real/02-student-campus.md`; `01-discovery/interview-logs/real/03-student-campus.md` · owner: Team | I conducted Interviews 01 and 03 and committed the Week 3 prediction verdict with supporting evidence. |
+| 5. Wk3 · Confirmed that laundry availability and unattended clothes are relevant problems to investigate further, based on the interview findings. The team will continue collecting evidence before finalizing the problem statement and deciding which solution, if any, is appropriate. · evidence: `01-discovery/interview-logs/real/01-student-campus.md` · owner: Team | I conducted Interview 01 and supplied evidence that supported continuing the investigation. |
 
 ---
 
-## Before you upload, check
-
-- [x] Two interviews where I was the asker.
-- [x] Six interview entries showing my participation.
-- [x] Four Pattern Journal entries.
-- [x] Relevant DECISIONS.md citations copied from the shared version.
-- [ ] Confirm the filenames and links for Interviews 05 and 06.
-- [ ] Commit from my own GitHub account.
-- [ ] Submit before the deadline.
+**Before you upload, check**
+- [x] Two or more real interview rows say asked (01, 03).
+- [x] Four journal entries, with links to commits or files.
+- [x] Related DECISIONS.md lines copied verbatim from entries 2, 4, 5.
+- [ ] Verify real filenames for interviews 05 and 06 in GitHub.
+- [ ] Commit from my GitHub account and submit before the deadline.
