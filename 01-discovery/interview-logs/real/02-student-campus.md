@@ -14,7 +14,7 @@ Quotes:
 - "Sometimes the dryers turn off by themselves or do not dry the clothes properly, so I have to turn them on again, which is frustrating as it takes a lot of time and requires you to be in the laundry room to check if it is working properly. "
 - "I do not have any ways to know whether washing machines are free rather than going to the laundry room and check it myself and having something that shows whether the washing machines or dryers are free, would make laundry days much easier and save a lot of time."
 
-Workaround: Visits the laundry room in the mornings, checks machine availability manually, and sets a timer to collect his clothes as soon as possible. If someone leaves their washed clothes in a machine, he usually waits 15–20 minutes before moving them to a chair. He does not transfer other people's clothes into dryers because they might shrink or be damaged.
+Workaround: Visits the laundry room in the mornings, checks machine availability manually, and sets a timer to collect his clothes as soon as possible. If someone leaves their washed clothes in a machine, he reports usually waiting 20–30 minutes before moving them to a chair. He does not transfer other people's clothes into dryers because they might shrink or be damaged.  
 
 Cost: Lost time from repeatedly going up and down to check machine availability, waiting for other students, and dealing with unreliable dryers. These interruptions affect his work and productivity.
 
