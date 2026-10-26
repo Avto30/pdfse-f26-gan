@@ -2,6 +2,7 @@
 
 **Problem we are investigating:** Campus washing-machine availability  
 **Our prediction:** Completed laundry is usually picked up within 15 minutes after the washing cycle ends  
+**Post-interview clarification:** The statement above was incorrectly labeled as our prediction. In the original problem hypothesis, collection within 15 minutes was the condition intended to challenge our belief that unattended completed laundry causes waiting and inconvenience. The interviews did not establish typical collection times. This clarification was added after the interviews; it was not part of the original script.  
 **Language:** Georgian/English
 
 ## Opening (2 min, word for word)
