@@ -53,7 +53,7 @@ The interviews support unattended laundry as a source of inconvenience, but they
 
 ## Design
 
-Based on the discovery findings, we are considering a student-reported laundry problem system as our first prototype direction.
+Based on our discovery findings, our team selected a student-reported laundry problem system as our first prototype direction. The initial prototype focuses exclusively on submitting a machine-problem report. Viewing reports submitted by other students may be investigated in a later experiment.  
 
 The proposed system would allow students to report specific problems they experience with washing machines and dryers, such as clothes remaining wet after drying or detergent foam remaining after washing.
 
