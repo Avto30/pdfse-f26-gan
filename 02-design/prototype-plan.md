@@ -3,7 +3,7 @@
 
 ## 1. The riskiest assumption
 
-> We assume that KIU dormitory residents who experience problems with shared washing machines or dryers will be willing and able to submit a short report describing the issue and identifying the affected machine.
+> We assume that KIU dormitory residents can independently identify and submit a specific washing-machine or dryer problem through a simple digital reporting interface, without assistance.
 
 **Why this one is riskiest:**
 
@@ -21,7 +21,7 @@ Our first prototype will test whether students can discover and complete the rep
 
 | Choice | Why it is the cheapest thing that can kill the assumption in Section 1 | Tool | Time we will spend |
 |---|---|---|---|
-| Clickable, phone-sized prototype | We can observe whether students discover and complete the reporting process without building a database, integrating with machines, or developing a full application. | Lovable or Figma (team to select) | Up to 2 hours (planned) |
+| Clickable, phone-sized prototype | We can observe whether students discover and complete the reporting process without building a database, integrating with machines, or developing a full application. | Lovable | Up to 2 hours (planned) |
 
 The prototype will use simulated machine identifiers and will not submit reports to an actual maintenance system.
 
@@ -104,11 +104,11 @@ The following recruitment assignments are proposed and not yet confirmed.
 
 | Code name | From log, or new | Who on the team books them |
 |---|---|---|
-| Log-02 | Interview 02; recontact pending | Gigi (proposed) |
-| Log-05 | Interview 05; recontact pending | Avto (proposed) |
-| Log-06 | Interview 06; recontact pending | Gigi (proposed) |
-| New-01 | New participant; recruitment pending | Nita (proposed) |
-| New-02 | New participant; recruitment pending | Avto (proposed) |
+| Log-02 | Interview 02; recontact pending | Gigi |
+| Log-05 | Interview 05; recontact pending | Nita |
+| Log-06 | Interview 06; recontact pending | Avto |
+| log-01 | New participant; recruitment pending | Nita |
+| log-04 | New participant; recruitment pending | Avto |
 
 Before testing, the team will confirm participant eligibility, availability, and recruitment responsibilities. Real names and personal contact information will remain outside the public repository.
 
@@ -121,4 +121,4 @@ Before testing, the team will confirm participant eligibility, availability, and
 - [x] Every screen in Section 4 is connected to interview evidence.
 - [x] The prototype focuses on one primary action: reporting a problem.
 - [x] The team has agreed on the reporting concept and selected the prototyping tool.
-- [ ] Tester recruitment responsibilities have been confirmed.
+- [x] Tester recruitment responsibilities have been confirmed.
