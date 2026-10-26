@@ -13,7 +13,7 @@ Start from your ICP's five, then add everyone they introduce, until three interv
 | Tekla | Washes her clothes once a week | Referred by Sandro | Week 3 | 13.10.2026 | Interview (15.10.2026, 20:00, Avto, Gigi and Nita) |
 | Nino | Volunteered herself and has had many concerns regarding laundry | Friend of Ani | Week 4 | Same hour | Interview (16.10.2026, 20:00, Nita, Gigi and Avto) |
 | Luka | Washes his clothes almost every day | Friend from choir | Week 4 | immediate | Interview (7.10.2026, 22:00, Avto, Gigi and Nita) |
-| Irakli | Washes his clothes almost every other day | Friend of all 3 | Week 4 | Day later | Interview (76.10.2026, 21:00, Gigi, Nita and Avto) |
+| Irakli | Washes his clothes almost every other day | Friend of all 3 | Week 4 | Day later | Interview (7.10.2026, 21:00, Gigi, Nita and Avto) |
 
 ## The message (adapt it, never paste it)
 > Hi [name], I'm [you], a student at KIU. We're learning how students use shared washing machines day to day. Not selling anything. Could I ask you about it for 20 minutes this week? [Day] or [day], whichever suits you.
