@@ -34,6 +34,10 @@ Each one becomes at least one question in our interview script, so we still hear
 
 ## After interviews — Week 3 initial verdict and Week 4 recheck
 
+**Post-interview clarification:** Our original hypothesis was that completed laundry left inside shared washing machines causes waiting and inconvenience for other students. The condition "We are wrong if completed laundry is usually picked up within 15 minutes after the washing cycle ends" was intended as a falsification condition. However, our interview scripts incorrectly described collection within 15 minutes as our prediction.
+
+The interviews provide evidence that unattended laundry causes delays, but they do not measure the typical time between a washing cycle finishing and its owner collecting the clothes. Therefore, the 15-minute condition remains inconclusive. This clarification does not change the original hypothesis or the evidence collected.
+
 **Verdict:** weakened.
 
 **Evidence:** Interviews 01, 02, 03, 04, 05, 06.
@@ -44,6 +48,5 @@ Interview 05 reports sometimes waiting about an hour before removing clothes, wh
 
 Interview 05 also describes the insufficient number of usable machines as the larger problem. This suggests that unattended laundry is one part of a wider machine-availability problem.
 
-Our prediction therefore remains **weakened**, rather than confirmed or disproved.
-
+**Final assessment:** The original problem hypothesis is **WEAKENED**, not killed. The interviews support unattended laundry as a recurring source of inconvenience, but they do not establish how frequently laundry remains uncollected beyond 15 minutes or whether unattended laundry is the primary cause of machine unavailability. The specific 15-minute condition remains **INCONCLUSIVE**.
 See `DECISIONS.md` for the Week 3 verdict and Week 4 evidence review.
