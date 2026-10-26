@@ -3,7 +3,7 @@
 **Week:** 3 · **Asker:** AG · **Logger:** GP, NJ · **Consent:** yes; notes and recording
 **Real or practice:** real
 
-**Context:** KIU student who uses the shared campus washing machines approximately every other day. We interviewed him to understand her actual experience with campus laundry facilities.
+**Context:** KIU student who uses the shared campus washing machines approximately every other day. We interviewed him to understand his actual experience with campus laundry facilities.
 **Our prediction:** We are wrong if completed laundry is usually picked up within 15 minutes after the washing cycle ends.
 
 **Quotes** (Georgian as spoken; English beside it; ★ = surprise)
