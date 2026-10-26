@@ -4,7 +4,9 @@
 **Real or practice:** real
 
 **Context:** KIU student who uses the shared campus washing machines approximately every other day. We interviewed him to understand his actual experience with campus laundry facilities.
-**Our prediction:** We are wrong if completed laundry is usually picked up within 15 minutes after the washing cycle ends.
+**Original falsification condition:** We are wrong if completed laundry is usually picked up within 15 minutes after the washing cycle ends.  
+
+**Post-interview clarification:** This condition was not directly measured during the interview. Statements about how long Luka waits do not establish how long owners typically take to collect completed laundry.  
 
 **Quotes** (Georgian as spoken; English beside it; ★ = surprise)
 - "ორ დღეში ერთხელ უეჭველი ჩამაქვს უმეტედსად, ხანდახან ყოველ დღეც." / "I usually take my laundry down every other day for sure, sometimes even every day."
@@ -28,7 +30,7 @@
 
 
 **Workaround:** Luka sets a timer to collect his laundry before the cycle finishes. When machines are occupied, he goes back upstairs and checks again later, usually waiting up to an hour before removing someone else's laundry. He also sometimes stays up late or wakes up early to find an available machine.
-**Cost:** Finding an available washing machine takes approximately one hour. This wastes time, disrupts his sleep schedule, and causes frustration. Poor machine conditions and insufficient availability make the laundry process even more inconvenient.
-**Prediction check:**  Our prediction is supported. Luka reports that laundry is frequently left in machines after cycles finish, sometimes occupying two or three machines. He often waits up to an hour before removing someone else's clothes, suggesting that laundry is not consistently collected within 15 minutes. However, at the end of the interview he stated that he thinks that the main problem is not this, it is that there are too many students and not enough washing machines to acomodate them.
-**Surprise ★:**  Luka suggested having a dedicated person or technical team responsible for laundry-related problems. He emphasized that a machine availability system should show not only which machines are occupied or broken, but also whether completed laundry has actually been removed. He also suggested separate laundry facilities for male and female students due to privacy concerns. Surprisingly, he reported spending approximately an hour finding an available machine and identified the insufficient number of washing machines, rather than students collecting laundry late, as the main problem.
+**Cost:** Finding an available washing machine takes approximately one hour. This wastes time, disrupts his sleep schedule, and causes frustration. Poor machine conditions and insufficient availability make the laundry process even more inconvenient.  
+**Prediction check:** Inconclusive regarding the 15-minute collection threshold. Luka reports that completed laundry is frequently left inside washing machines and that he sometimes waits approximately one hour before removing someone else's clothes. This supports unattended laundry as a source of inconvenience. However, his waiting time does not establish the typical time between cycle completion and collection. Luka also identifies the insufficient number of usable washing machines as the larger problem. Therefore, this interview supports the existence of the broader availability problem but does not confirm the original 15-minute condition.  
+**Surprise ★:**  Luka suggested having a dedicated person or technical team responsible for laundry-related problems. He emphasized that a machine availability system should show not only which machines are occupied or broken, but also whether completed laundry has actually been removed. He also suggested separate laundry facilities for male and female students due to privacy concerns. Surprisingly, he reported spending approximately an hour finding an available machine and identified the insufficient number of washing machines, rather than students collecting laundry late, as the main problem.  
 **Next:**  Luka gave us many new ideas and we will start evaluating them more to see how they can aid students in any case.
