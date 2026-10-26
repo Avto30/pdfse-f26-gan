@@ -21,7 +21,8 @@ Cost: Lost time from repeatedly going up and down to check machine availability,
 Frequency: Does laundry approximately once a week. He estimates that, over one year, there have been around 20–30 occasions when students left their clothes in machines for too long. He typically waits 20–30 minutes for other students to collect their clothes.
 Specific incident: One student left clothes in a washing machine for an entire day. In another case, someone's clothes were transferred into a dryer and shrank; one of his friends had to throw away a shirt worth 300 GEL because it no longer fit.
 
-Prediction check: My predictions that the laundry room is not well-organized turned out to be the same for Irakli.
+
+Prediction check (post-interview clarification): This interview provides evidence that unattended completed laundry causes waiting and inconvenience, but it does not establish how long owners typically take to collect their laundry after a cycle ends. The original 15-minute falsification condition remains unverified.
 
 Surprise ★: The problem is not only the availability of machines. Students also leave clothes unattended, some machines are broken, and dryers can be unreliable. Irakli avoids putting other people's clothes in dryers because he does not want to damage them. He also mentioned that he never touches girls' clothes and waits for them to collect them.
 
