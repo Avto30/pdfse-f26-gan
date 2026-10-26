@@ -22,7 +22,8 @@
 
 **Specific incident:** Someone was waiting for their clothes to be washed while having 2 full buckets of others and therefore needed one single washing machine for themselves for a whole day and  Sandros clothes were once put out from washing machine, as he could not go there in time becauyse of some problems and half of his clothes were on the floor.
 
-**Prediction check:** My predictions that the laundry room is not well-organized turned out to be the same for Sandro.
+
+**Prediction check (post-interview clarification):** This interview provides evidence that unattended completed laundry causes waiting and inconvenience, but it does not establish how long owners typically take to collect their laundry after a cycle ends. The original 15-minute falsification condition remains unverified.
 
 **Surprise ★:** The problem is not only the availability of machines. Students also leave clothes unattended, some machines are broken and some student tend to not respect others clothes or take into account that other students need to use a washing machine too and therefore not take it for yourself for a whole day.
 
