@@ -1,19 +1,23 @@
+
 # GAN
 
-*Project:* Campus Laundry Problems
+**Project:** Campus Laundry Problems / KIU Laundry
 
-*Investigating:* KIU dormitory residents experience difficulties using shared washing machines and dryers due to limited equipment availability, unattended laundry, and machine performance problems. These issues can lead to waiting, repeated trips to the laundry room, and disruptions to students' schedules.
+**Investigating:** KIU dormitory residents experience difficulties using shared washing machines and dryers due to limited equipment availability, unattended laundry, and machine performance problems. These issues can lead to waiting, repeated trips to the laundry room, and disruptions to students' schedules.
 
-*Team:* Avtandili Gogoladze (@Avto30) · Nita Javelidze (@NitaJ5) · Gigi Peikrishvili (@GigiP909)
+**Team:** Avtandili Gogoladze (@Avto30) · Nita Javelidze (@NitaJ5) · Gigi Peikrishvili (@GigiP909)
 
 ## Project Status
 
-| Link | Status |
+| Deliverable | Status |
 |---|---|
-| Discovery | Initial research and synthesis completed |
-| Prototype | [KIU Laundry clickable prototype] https://kiulaundryproblemreportingprototype.lovable.app — Built; formal usability testing pending |
-| Live product | Not yet developed |
+| Discovery | Initial research and synthesis completed; six real interview logs documented |
+| Prototype | [KIU Laundry clickable prototype](https://kiulaundryproblemreportingprototype.lovable.app) — Built; formal usability testing pending |
+| Live application | [KIU Laundry on Vercel](https://laundrykiu.vercel.app) — Developed and deployed |
+| Application source code | [NitaJ5/Laundry](https://github.com/NitaJ5/Laundry) — Separate application repository |
+| North Star metric | Selected; official decision and event schema documentation pending |
 | Analytics dashboard (PostHog) | Not yet implemented |
+| Formal usability testing | Pending |
 | 12-month model | Planned for Week 12 |
 | Pitch deck | Planned for Week 13 |
 | One-pager | Planned for Week 15 |
@@ -22,7 +26,7 @@
 
 Our team investigated the experiences of KIU dormitory residents using shared laundry facilities.
 
-We conducted six real student interviews and analyzed the findings to identify recurring problems.
+We conducted six documented real student interviews and analyzed the findings to identify recurring problems. Additional discovery interviews are required to meet the course target of ten.
 
 The main findings include:
 
@@ -33,7 +37,7 @@ The main findings include:
 
 Our original hypothesis focused on unattended completed laundry causing delays.
 
-*Hypothesis verdict: WEAKENED.*
+**Hypothesis verdict: WEAKENED.**
 
 The interviews support unattended laundry as a source of inconvenience, but they do not establish how long completed laundry is typically left uncollected. Other factors, including limited machine capacity and equipment performance, also contribute to the problem.
 
@@ -50,52 +54,182 @@ The interviews support unattended laundry as a source of inconvenience, but they
 - [Problem Statement](01-discovery/problem-statement.md)
 - [Competitive Landscape Seed](01-discovery/competitive-landscape-seed.md)
 
-## Design
+## Product Direction
 
-Based on our discovery findings, our team selected a student-reported laundry problem system as our first prototype direction. The initial prototype focuses on submitting a machine-problem report. Viewing reports submitted by other students may be investigated in a later experiment.
+Based on our discovery findings, our team selected student reporting of washing-machine and dryer problems as the first product direction.
 
-The proposed system would allow students to report specific problems they experience with washing machines and dryers, such as clothes remaining wet after drying or detergent foam remaining after washing.
+We chose this reporting interaction because our research identified equipment problems, but we do not have reliable information about machine availability or automatic fault detection.
 
-The system treats submissions as unverified student reports rather than automatically diagnosing machines or claiming that equipment is working properly.
+The central action is:
 
-Our first prototype experiment will investigate whether dormitory residents can independently discover and complete a simple problem-reporting action.
+**A KIU dormitory resident submits a report about a specific washing-machine or dryer problem.**
 
-This approach does not solve machine shortages, automatically determine availability, or guarantee maintenance. These limitations remain outside the scope of the first prototype.
+The system collects student-reported observations rather than verified technical diagnoses.
+
+It does not automatically determine machine availability, guarantee maintenance, or confirm whether equipment is functioning correctly.
+
+Viewing reports submitted by other students remains a possible future experiment rather than a validated feature of our first prototype.
+
+## North Star Metric
+
+Our team selected the following North Star metric:
+
+**Successfully submitted laundry equipment-problem reports per week per user.**
+
+The current application records successful reports in Supabase and associates them with persistent participant identifiers.
+
+The metric counts successfully saved problem reports per participant within an ISO week, using the Asia/Tbilisi time zone.
+
+This allows us to investigate reporting activity during our experiment.
+
+The metric does not directly measure machine repairs, reduced waiting times, or improved equipment availability. More submitted reports do not necessarily mean fewer broken machines.
+
+The official North Star decision and analytics event schema still need to be committed to the course repository.
+
+## Original Clickable Prototype — Lovable
+
+**Prototype:** [KIU Laundry Problem Reporting Prototype](https://kiulaundryproblemreportingprototype.lovable.app)
+
+Our team created the original clickable prototype using Lovable, based on the existing prototype plan.
+
+This version was designed to test a reporting interaction without building the full application or connecting a database.
+
+### Prototype Screens
+
+1. **Reporting start screen:** Students begin reporting a problem with shared laundry equipment.
+2. **Problem reporting form:** Students select a building, machine type, machine identifier, and experienced problem.
+3. **Submission confirmation:** The prototype displays the selected building, machine, reported problem, and submission time.
+
+The prototype includes:
+
+- Building selection: F, E, or G.
+- Washing-machine and dryer selection.
+- Simulated washing-machine identifiers W1(L)–W6(L).
+- Simulated dryer identifiers D1(R)–D7(R).
+- Predefined equipment-problem options.
+- An option to describe a different problem.
+- Validation preventing incomplete submissions.
+
+The original clickable prototype uses simulated reports and does not save reports to the production database or send maintenance requests.
+
+### Prototype Development and Internal Review
+
+Nita created the original prototype using ChatGPT-assisted instructions and Lovable.
+
+Gigi participated in discussing requirements, possible improvements, and the prototype's usability. He also checked that the published prototype could be opened on a phone.
+
+The team refined the form to include clearer machine identifiers, building selection, and custom problem descriptions.
+
+Internal technical checks covered navigation, form completion, validation, and the simulated confirmation screen.
+
+These checks do not count as formal usability sessions with independent student participants.
+
+**Prototype status:** Built and published. Formal usability testing remains pending.
 
 ### Design Documents
 
 - [Prototype Plan](02-design/prototype-plan.md)
 
-### Clickable Prototype
+## Deployed Application — KIU Laundry
 
-Our team created a clickable prototype using Lovable based on the existing prototype plan.
+**Live application:** https://laundrykiu.vercel.app
 
-*Prototype link:* [KIU Laundry — Problem Reporting Prototype]https://kiulaundryproblemreportingprototype.lovable.app
+**Application repository:** https://github.com/NitaJ5/Laundry
 
-The prototype consists of three screens:
+After developing the original clickable prototype, the team continued toward a functional, database-backed application.
 
-1. *Reporting start screen:* Students can begin reporting a problem with shared laundry equipment.
-2. *Problem reporting form:* Students select a building (F, E, or G), machine type, machine identifier, and the problem experienced. Students can select a predefined problem or describe another problem in their own words.
-3. *Submission confirmation:* The prototype displays the selected building, machine, reported problem, and submission time.
+The working application is maintained in a separate GitHub repository and deployed using Vercel.
 
-The prototype uses simulated machine identifiers. Washing machines are labeled W1(L)–W6(L), while dryers are labeled D1(R)–D7(R). The labels indicate the machines' positions, with washing machines on the left and dryers on the right.
+The original Lovable prototype and the deployed application are different implementations of the same reporting concept.
 
-The prototype does not automatically determine machine availability, verify reported equipment problems, or send real maintenance requests.
+### Implemented User Journey
 
-### Initial Prototype Review
+The deployed application allows a student to:
 
-Nita created the prototype using ChatGPT-assisted instructions and Lovable.
+1. Open the KIU Laundry website.
+2. Register or log in using a username.
+3. Select Building F, E, or G.
+4. Choose a washing machine or dryer.
+5. Select the relevant machine identifier.
+6. Choose a predefined problem or enter a custom description.
+7. Submit a problem report that is saved in Supabase.
+8. View personal reporting statistics and weekly reporting history.
 
-Gigi participated in discussing the prototype requirements and possible improvements. He also checked that the published prototype could be opened on a phone.
+The application associates reports with persistent participant UUIDs.
 
-Based on informal internal feedback, the team refined the form to include clearer machine identifiers, building selection, and a custom problem-description option.
+### Technology Stack
 
-Initial technical checks confirmed that the reporting journey works, incomplete submissions are blocked, and the published prototype is accessible on a phone.
+| Layer | Implementation |
+|---|---|
+| Frontend | React and TypeScript |
+| Application framework | TanStack Start |
+| Hosting and deployment | Vercel |
+| Database | Supabase PostgreSQL |
+| Application operations | Server-side functions for participant sessions and reporting |
+| Reporting statistics | Database-backed participant reporting history and weekly statistics |
 
-*Current status:* The clickable prototype has been built and published. Formal usability testing with student participants has not yet been conducted, so the reporting interaction remains unvalidated.
+The database-backed reporting system is implemented. PostHog event instrumentation is not yet complete.
 
-## Project Decisions
+### Functional Verification
 
-Our research findings, hypothesis verdicts, and product decisions are documented in [DECISIONS.md](DECISIONS.md).
+The team conducted manual functional checks covering:
 
-We use evidence from student interviews and prototype testing to decide whether to continue, revise, or reject our assumptions.
+- Participant registration and session creation.
+- Successful database report submission.
+- Updating weekly and all-time reporting statistics.
+- Preserving participant sessions when reopening the browser.
+- Recovering reporting history using the same username.
+- Blocking incomplete or invalid submissions.
+- Logging out and restoring history after logging back in.
+- Preventing duplicate reports from rapid repeated submissions.
+- Keeping different participants' reports and statistics separate.
+
+The nine recorded manual functional tests passed.
+
+Database records and statistics were also checked independently during technical verification.
+
+These results demonstrate technical functionality but do not replace formal usability testing with KIU dormitory residents.
+
+### Current Limitations
+
+- Username-only login does not securely verify a student's identity.
+- Submitted problems are student reports, not independently verified equipment faults.
+- Reports do not automatically create maintenance requests.
+- The system does not provide real-time machine availability.
+- The system does not automatically detect or diagnose machine faults.
+- PostHog instrumentation and analytics reconciliation are still pending.
+- Real student usability testing is still required.
+
+The application source code is currently maintained in the separate `NitaJ5/Laundry` repository. The course repository's `app/` directory has not yet been populated with that application, so the team must resolve the course code-location requirement.
+
+## Usability Testing
+
+Our prototype experiment investigates whether KIU dormitory residents can independently submit a specific laundry equipment-problem report without assistance.
+
+The original frozen usability scenario is recorded in [Prototype Plan](02-design/prototype-plan.md).
+
+The team plans to test with five eligible KIU dormitory residents, including at least two participants who did not participate in discovery interviews.
+
+Testing will record task completion, time taken, errors, assistance required, and participant feedback.
+
+Internal technical verification and informal teammate feedback must remain separate from formal student usability results.
+
+No formal participant sessions are claimed as completed in this README.
+
+## Project Decisions and Documentation
+
+Our research findings, hypothesis verdicts, prototype direction, and product decisions are documented in [DECISIONS.md](DECISIONS.md).
+
+The team uses interview evidence, functional verification, and future usability findings to determine which assumptions are supported and which need further investigation.
+
+AI-assisted work is documented in [AI Usage Log](docs/ai-usage-log.md).
+
+## Repositories and Project Links
+
+- **Official course deliverables:** https://github.com/Avto30/pdfse-f26-gan
+- **Independent application source code:** https://github.com/NitaJ5/Laundry
+- **Live application:** https://laundrykiu.vercel.app
+- **Original clickable prototype:** https://kiulaundryproblemreportingprototype.lovable.app
+- **Course repository:** https://github.com/ZA-KIU-Classroom/PDFSE-F26
+
+The team will continue documenting the existing implementation, completing formal usability testing, preparing the Lab 5 and Lab 6 deliverables, and integrating the required analytics instrumentation.
