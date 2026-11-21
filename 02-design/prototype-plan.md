@@ -122,3 +122,80 @@ Before testing, the team will confirm participant eligibility, availability, and
 - [x] The prototype focuses on one primary action: reporting a problem.
 - [x] The team has agreed on the reporting concept and selected the prototyping tool.
 - [x] Tester recruitment responsibilities have been confirmed.
+
+## Prototype Implementation and Internal Review — Week 6
+
+### Implementation Status
+
+Our team created its first clickable laundry-problem reporting prototype using Lovable.
+
+*Published prototype:* [KIU Laundry — Problem Reporting Prototype]https://kiulaundryproblemreportingprototype.lovable.app
+
+The prototype follows our original decision to test whether students can independently submit reports about problems with shared washing machines and dryers.
+
+### Implemented Features
+
+The clickable prototype includes three screens:
+
+1. Reporting start screen.
+2. Machine-problem reporting form.
+3. Simulated submission confirmation.
+
+The reporting form includes:
+
+- Building selection: Building F, E, or G.
+- Machine type selection: Washing machine or dryer.
+- Simulated washing-machine identifiers: W1(L)–W6(L).
+- Simulated dryer identifiers: D1(R)–D7(R).
+- Guidance indicating that washing machines are on the left and dryers are on the right.
+- Predefined problem options for the selected machine type.
+- An "Other problem" option allowing students to enter their own problem description.
+- Validation preventing submission when required information is missing.
+
+The confirmation screen displays the selected building, machine, problem, and submission time.
+
+The prototype does not automatically detect machine problems, verify equipment availability, or send actual maintenance requests.
+
+### Internal Review
+
+Nita generated the prototype using ChatGPT-assisted instructions and Lovable.
+
+Gigi participated in discussing the interface requirements and possible improvements and checked that the published prototype could be opened on a phone.
+
+Informal internal feedback raised questions about the meaning of machine identifiers and the inability to describe problems outside the predefined choices.
+
+The team refined the prototype before formal usability testing by adding clearer machine labels, building selection, and the ability to describe a different problem.
+
+These observations are informal feedback and do not count as formal usability-testing results.
+
+### Technical Verification
+
+The team checked:
+
+- Navigation from the homepage to the report form.
+- Selection of Dryer D2 and the wet-clothes problem.
+- Display of the corresponding details on the confirmation screen.
+- Validation preventing incomplete reports.
+- Accessibility of the published website on a phone.
+
+These checks are separate from formal participant testing.
+
+### Formal Usability Testing
+
+Our main experiment remains whether a KIU dormitory resident can independently complete a laundry equipment-problem report.
+
+The original scenario involves Dryer D2 completing its cycle but leaving the student's clothes wet.
+
+Because the updated prototype requires building selection, the team must agree on the building for this scenario before conducting formal sessions.
+
+*Building for the test scenario:* [TO BE AGREED: F, E, OR G]
+
+The original success conditions, time limit, and decision rule remain unchanged unless a revision is explicitly agreed upon before formal testing.
+
+Participants will receive the scenario without being told which buttons or selections to use.
+
+Formal usability testing has not yet been conducted. Real participant results will be recorded in 02-design/user-testing/usability-findings.md.
+
+### Current Status
+
+The first clickable prototype has been built and internally checked. Whether students can independently complete the reporting interaction remains unvalidated until formal usability testing is conducted.
