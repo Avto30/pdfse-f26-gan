@@ -22,6 +22,7 @@ The following events are planned for PostHog instrumentation. The application al
 | Acquisition / access | `student_completed_username_login` | Student, after successful username login | `participant_id`, `login_success: true` | Nita |
 | Activation (precursor) | `student_opened_problem_form` | Student, when the reporting form becomes available after authentication | `participant_id` | Nita |
 | Activation (precursor) | `student_selected_laundry_machine` | Student, when a nonempty machine identifier is selected | `participant_id`, `building`, `machine_type`, `machine_id` | Nita |
+| Activation (precursor) | `student_selected_problem_type` | Student, when selecting a predefined problem or the custom problem option | `participant_id`, `machine_type`, `selection_kind` (predefined or custom; no custom description text) | Nita |
 | Activation (north star) ★ | `student_submitted_problem_report` | Student, after the server confirms that the report was successfully saved in Supabase | `participant_id`, `report_id`, `building`, `machine_type`, `machine_id`, `submitted_at` | Nita |
 | Retention / engagement precursor | `student_opened_reporting_statistics` | Student, when they explicitly open the statistics panel from the reporting form | `participant_id` | Nita |
 
