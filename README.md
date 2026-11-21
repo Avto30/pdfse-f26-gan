@@ -11,7 +11,7 @@
 | Link | Status |
 |---|---|
 | Discovery | Initial research and synthesis completed |
-| Prototype | [KIU Laundry clickable prototype] https://kiulaundryproblemreportingprototype.lovable.app/— Built; formal usability testing pending |
+| Prototype | [KIU Laundry clickable prototype] https://kiulaundryproblemreportingprototype.lovable.app — Built; formal usability testing pending |
 | Live product | Not yet developed |
 | Analytics dashboard (PostHog) | Not yet implemented |
 | 12-month model | Planned for Week 12 |
@@ -70,7 +70,7 @@ This approach does not solve machine shortages, automatically determine availabi
 
 Our team created a clickable prototype using Lovable based on the existing prototype plan.
 
-*Prototype link:* [KIU Laundry — Problem Reporting Prototype]https://kiulaundryproblemreportingprototype.lovable.app/
+*Prototype link:* [KIU Laundry — Problem Reporting Prototype]https://kiulaundryproblemreportingprototype.lovable.app
 
 The prototype consists of three screens:
 
