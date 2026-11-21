@@ -68,7 +68,7 @@ No formal external participant usability findings are claimed as evidence for th
 
 Event names are taken from `03-build/analytics/event-schema.md`.
 
-The Step 4 event must be added to that schema in the same commit as this boundary.
+The Step 4 event, `student_selected_problem_type`, is defined in `03-build/analytics/event-schema.md`. All five journey steps now have corresponding documented events.
 
 | Step | Event (actor_verb_object) | In the schema? |
 |---|---|---|
