@@ -18,28 +18,32 @@ The Week 7 shipping ladder is: (1) public URL works on mobile data; (2) full rep
 
 ## Real hours before the Week 7 lab
 
-**Team confirmation needed:** GitHub does not establish each person's actual free hours or working windows. The table must be updated with real availability before capacity is approved.
+The team has agreed on a provisional Sprint 1 capacity of 16.5 person-hours: 14.5 hours for development and 2 hours for independent reviews.
 
-| Initials | Hours free | When, specifically |
+| Initials | Hours free (planned) | When, specifically |
 |---|---|---|
-| NJ | **Unconfirmed** | Nita to specify dates and times |
-| GP | **Unconfirmed** | Gigi to specify dates and times |
-| AG | **Unconfirmed** | Avto to specify dates and times |
-| **Total confirmed** | **Pending** | Must be at least the total approved story/review hours, or estimates/scope must be revised |
+| NJ | 6.5 h (6 development + 0.5 review) | To be scheduled before the Week 7 lab |
+| GP | 4 h (3.5 development + 0.5 review) | To be scheduled before the Week 7 lab |
+| AG | 6 h (5 development + 1 review) | To be scheduled before the Week 7 lab |
+| **Total** | **16.5 h** | Exact working days and times still to be confirmed |
 
-**Provisional story estimates, not actual availability:**
+These are agreed planning allocations, not hours already worked. Each teammate will record their actual work windows before the sprint begins.
 
-| Story | Owner | Owner estimate |
+### Story estimates
+
+| Story | Owner | Estimated hours |
 |---|---|---:|
-| S1 — successful submission / North Star (journey step 5) | NJ | 3.5 h |
-| S2 — username-login event (step 1) | NJ | 1.5 h |
-| S3 — report-form-open event (step 2) | NJ | 1 h |
-| S4 — machine-selection event (step 3) | **GP** | 1 h |
-| S5 — problem-selection event (step 4) | **GP** | 1 h |
-| S6 — production deployment, optional statistics event, reconciliation (delivery) | AG | 5 h |
-| **Total owner estimates** | | **13 h** |
+| S1 — Successful submission / North Star (step 5) | NJ | 3.5 h |
+| S2 — Username-login event (step 1) | NJ | 1.5 h |
+| S3 — Reporting-form-open event (step 2) | NJ | 1 h |
+| S4 — Machine-selection event (step 3) | GP | 1.5 h |
+| S5 — Problem-selection event (step 4) | GP | 2 h |
+| S6 — Deployment, optional statistics event, and reconciliation | AG | 5 h |
+| **Total implementation** | | **14.5 h** |
 
-Provisional allocation: **Nita 6 h, Gigi 2 h, Avto 5 h**, plus an estimated **2 reviewer-hours** shared between the team (about 15 person-hours overall). These assignments describe intended work, not proof of completed contributions. Re-estimate if development or review reveals more work.
+The implementation estimates fit the team's planned development allocation. An additional 2 person-hours are reserved for independent reviews.
+
+If work exceeds its estimate, the team will update the sprint board, revise the remaining estimates, and apply the documented slip rule.
 
 ## The board
 
