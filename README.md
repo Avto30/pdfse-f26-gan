@@ -15,7 +15,7 @@
 | Prototype | [KIU Laundry clickable prototype](https://kiulaundryproblemreportingprototype.lovable.app) — Built; formal usability testing pending |
 | Live application | [KIU Laundry on Vercel](https://laundrykiu.vercel.app) — Developed and deployed |
 | Application source code | [NitaJ5/Laundry](https://github.com/NitaJ5/Laundry) — Separate application repository |
-| North Star metric | Selected; official decision and event schema documentation pending |
+| North Star metric | Selected and documented in `DECISIONS.md` (Decision 10) and `03-build/analytics/event-schema.md`; PostHog instrumentation pending |
 | Analytics dashboard (PostHog) | Not yet implemented |
 | Formal usability testing | Pending |
 | 12-month model | Planned for Week 12 |
@@ -84,7 +84,7 @@ This allows us to investigate reporting activity during our experiment.
 
 The metric does not directly measure machine repairs, reduced waiting times, or improved equipment availability. More submitted reports do not necessarily mean fewer broken machines.
 
-The official North Star decision and analytics event schema still need to be committed to the course repository.
+The North Star decision is recorded in `DECISIONS.md` (Decision 10), and the planned analytics events are documented in `03-build/analytics/event-schema.md`. The schema defines six events, including the North Star event `student_submitted_problem_report`. PostHog implementation and reconciliation with Supabase remain outstanding.
 
 ## Original Clickable Prototype — Lovable
 
@@ -215,6 +215,29 @@ Testing will record task completion, time taken, errors, assistance required, an
 Internal technical verification and informal teammate feedback must remain separate from formal student usability results.
 
 No formal participant sessions are claimed as completed in this README.
+
+
+## Sprint 1 Development Responsibilities
+
+The team has prepared its Sprint 1 implementation plan in [Sprint 1 Plan](03-build/sprints/sprint-1.md).
+
+All three team members have development responsibilities:
+
+- **Nita Javelidze (@NitaJ5):** North Star successful-submission instrumentation, username-login analytics, and reporting-form analytics (S1–S3).
+- **Gigi Peikrishvili (@GigiP909):** Machine-selection and problem-selection analytics instrumentation (S4–S5). Gigi can now commit his development work using his own GitHub account.
+- **Avtandili Gogoladze (@Avto30):** Deployment integration, production event verification, and Supabase-to-PostHog reconciliation (S6).
+
+Each story has an independent reviewer. These are planned development assignments, not claims that the analytics implementation is already complete.
+
+The team will verify the implementation through GitHub commits, deployed functionality, and PostHog event evidence before marking stories as completed.
+
+### Lab 6 Documentation
+
+- [MVP Boundary](03-build/mvp-boundary.md)
+- [Architecture](03-build/architecture/architecture.md)
+- [Sprint 1 Plan](03-build/sprints/sprint-1.md)
+- [Analytics Event Schema](03-build/analytics/event-schema.md)
+
 
 ## Project Decisions and Documentation
 
