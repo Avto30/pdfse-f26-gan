@@ -19,12 +19,12 @@ The following events are planned for PostHog instrumentation. The application al
 
 | Step | Event (actor_verb_object) | Fired by | Properties (never a name, phone, email, or message text) | Owner |
 |---|---|---|---|---|
-| Acquisition / access | `student_completed_username_login` | Student, after successful username login | `participant_id`, `login_success: true` | Gigi |
-| Activation (precursor) | `student_opened_problem_form` | Student, when the reporting form becomes available after authentication | `participant_id` | Gigi |
+| Acquisition / access | `student_completed_username_login` | Student, after successful username login | `participant_id`, `login_success: true` | Nita |
+| Activation (precursor) | `student_opened_problem_form` | Student, when the reporting form becomes available after authentication | `participant_id` | Nita |
 | Activation (precursor) | `student_selected_laundry_machine` | Student, when a nonempty machine identifier is selected | `participant_id`, `building`, `machine_type`, `machine_id` | Gigi |
 | Activation (precursor) | `student_selected_problem_type` | Student, when selecting a predefined problem or the custom problem option | `participant_id`, `machine_type`, `selection_kind` (predefined or custom; no custom description text) | Gigi |
-| Activation (north star) ★ | `student_submitted_problem_report` | Student, after the server confirms that the report was successfully saved in Supabase | `participant_id`, `report_id`, `building`, `machine_type`, `machine_id`, `submitted_at` | Gigi |
-| Retention / engagement precursor | `student_opened_reporting_statistics` | Student, when they explicitly open the statistics panel from the reporting form | `participant_id` | Gigi |
+| Activation (north star) ★ | `student_submitted_problem_report` | Student, after the server confirms that the report was successfully saved in Supabase | `participant_id`, `report_id`, `building`, `machine_type`, `machine_id`, `submitted_at` | Nita |
+| Retention / engagement precursor | `student_opened_reporting_statistics` | Student, when they explicitly open the statistics panel from the reporting form | `participant_id` | Nita |
 
 
 ## Rules we are following
