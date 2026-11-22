@@ -47,8 +47,10 @@ If work exceeds its estimate, the team will update the sprint board, revise the 
 
 ## The board
 
-**Proposed location:** GitHub Projects connected to https://github.com/Avto30/pdfse-f26-gan.  
-**Board URL:** **Not yet confirmed; insert the real link when created.**
+**Project board:** [GAN — Sprint 1](https://github.com/users/Avto30/projects/1)  
+**Repository:** https://github.com/Avto30/pdfse-f26-gan
+
+The Sprint 1 board contains six GitHub Issues (S1–S6), each with a designated developer, independent reviewer, estimated hours, and acceptance criteria.
 
 Four columns: `next`, `doing`, `review`, `done`. Maintain S1–S6 cards containing owner, distinct reviewer, acceptance criteria, estimate, commit/PR, production test and PostHog evidence. Merge reviewed work to `main` on each day changes are completed. A card moves to `done` only after the definition of done passes.
 
