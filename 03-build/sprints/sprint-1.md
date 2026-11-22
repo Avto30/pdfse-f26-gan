@@ -103,7 +103,7 @@ North Star is listed first, and deploy last, as required by the lecturer. **Star
 
 **At planning:** Form exists; event unverified.
 
-### S4 · Journey step 3 — Select affected machine · owner GP · reviewer NJ · 1 h
+### S4 · Journey step 3 — Select affected machine · owner GP · reviewer NJ · 1.5 h
 
 **As** Luka, **I** choose the building, equipment type and specific machine **so that** my report identifies the affected equipment.
 
@@ -117,7 +117,7 @@ North Star is listed first, and deploy last, as required by the lecturer. **Star
 
 **At planning:** Selection exists; Gigi's planned analytics code is not yet verified.
 
-### S5 · Journey step 4 — Select problem type · owner GP · reviewer NJ · 1 h
+### S5 · Journey step 4 — Select problem type · owner GP · reviewer NJ · 2 h
 
 **As** Luka, **I** identify the experienced symptom or describe another problem **so that** my report contains meaningful issue information.
 
