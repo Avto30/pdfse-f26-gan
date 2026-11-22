@@ -170,9 +170,10 @@ The source code uses a dynamically imported server-side Supabase client inside t
 
 **Environment configuration:** Production credentials should be stored in the Vercel project's environment variable settings. Local credentials, if used, should remain in ignored local environment files.
 
-**Repository verification finding:** The application repository's current `.gitignore` contains `*.local` but does not explicitly ignore `.env` or all `.env.*` files.
 
-This must be corrected and verified. Until that correction is committed, the environment-file protection requirement is not fully satisfied.
+**Repository verification update:** The application repository's `.gitignore` now explicitly excludes `.env` and `.env.*` while permitting a placeholder `.env.example`. This was verified in commit `df6e16f8eea1edced8daaea202066be4fcdf77f8` in `NitaJ5/Laundry`.
+
+This protects untracked local environment files from ordinary Git additions. It does not prove that credentials were never committed previously; historical exposure would require a separate review.
 
 No secret values should appear in this document, source control, public logs, or analytics events.
 
@@ -319,7 +320,6 @@ Previously completed functional tests remain valid evidence of the implementatio
 - PostHog capture for the six analytics events.
 - North Star reconciliation with Supabase.
 - Compliance with the course's application-source location requirement.
-- Complete local environment-file ignore protection.
 
 **Not part of the MVP:**
 
